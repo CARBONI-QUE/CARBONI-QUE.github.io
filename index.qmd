@@ -1,5 +1,5 @@
 ---
-title: "CARBONIQUE - Étude du cycle du CARBONe dans les milieux humIdes du QUÉbec/CARBON cycling In QUÉbec's wetlands"
+title: "CARBONIQUE - Étude du cycle du CARBONe dans les milieux humIdes du QUÉbec/CARBON cycling In QUEbec's wetlands"
 ---
 
 ::: {.column-margin}
