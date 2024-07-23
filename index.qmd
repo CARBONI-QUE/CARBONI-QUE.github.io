@@ -4,7 +4,9 @@ title: "CARBONIQUE - Étude du cycle du CARBONe dans les milieux humIdes du QUÉ
 
 ::: {.column-margin}
 **Contact Information**
+
 Dr. Sara Knox
+
 sara.knox@mcgill.ca
 
 :::
