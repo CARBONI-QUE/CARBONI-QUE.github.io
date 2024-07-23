@@ -8,7 +8,7 @@ website:
     background: light
     left:
       - href: index.qmd
-        text: Home
+        text: Home/Accueil
       - href: Documentation/index.qmd
         text: Documentation
       # - href: FieldWorkProcedures.qmd
@@ -23,17 +23,17 @@ website:
         aria-label: Quarto GitHub
   sidebar:
     - id: home
-      title: "Home"
+      title: "Home/Accueil"
       style: "floating"
       collapse-level: 3
       align: left
       contents:
         - href: index.qmd
-          text: Home
+          text: Home/Accueil
         - href: Research.qmd
-          text: Research
+          text: Research/Recherche
         - href: People.qmd
-          text: People
+          text: People/Équipe
         - href: Publications.qmd
           text: Publications
     - id: documentation
