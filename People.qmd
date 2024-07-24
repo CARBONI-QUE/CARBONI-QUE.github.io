@@ -257,13 +257,34 @@ Léonie Perrier manages field logistics, budgets, progress reports and provides 
 
 ---
 
+:::: {.columns}
+:::{.column width="30%"}
+
+<!--![](images/headshots/zoran-nesic-oval.png){width=85%}
+-->
+:::
+::: {.column width="70%"}
+
+ |
+-----|:-----
+Name| Olaf Kolle
+Email|  oeekolle\@outlook.de
+<!--Office| MCML 137-->
+
+::: 
+::::
+
+Olaf Kolle contributes intermittently as invited senior scientist at UQAM to the CARBONIQUE project with his expertise in field experiments and instrumentation. His main tasks are to design and implement the eddy flux towers overall (structure, lightning protection, instrumentation, data acquisition, remote access, safety measures) together with the other team members, who all contribute with their respective skills and experience. He also imparts knowledge to the new generation of researchers and technical staff.
+
+---
+
 ## Students/Étudiants
 
 :::: {.columns}
 ::: {.column width="50%}
 
 **Joannie Beaulne**
-: *(M.Sc. Student)*
+: *(PhD Student)*
 
 <!--![](images/headshots/darian-oval.png){width=45%}
 -->
@@ -271,7 +292,7 @@ Léonie Perrier manages field logistics, budgets, progress reports and provides 
 ::: {.column width="50%"}
 
 **Joannie Boulard**
-: *(PhD Student)*
+: *(M.Sc. Student)*
 
 <!--![](images/headshots/litman-oval.png){width=45%}
 -->
