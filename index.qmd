@@ -1,37 +1,26 @@
 ---
-title: "CARBONIQUE - Étude du cycle du CARBONe dans les milieux humIdes du QUÉbec/CARBON cycling In QUEbec's wetlands"
+title: "CARBONIQUE - Étude du cycle du CARBONe dans les milieux humIdes du QUÉbec"
+sidebar: accueil
 ---
 
 ::: {.column-margin}
-**Contact Information**
+**Coordonnées**
 
-Dr. Sara Knox
+Dr. Michelle Garneau
 
-sara.knox@mcgill.ca
+garneau.michelle@uqam.ca
 
 :::
 
+La conservation des milieux humides est une priorité établie par les gouvernements du Québec et du Canada afin de prévenir la destruction et la dégradation d'importants stocks de carbone, ainsi que la reconnaissance du rôle des écosystèmes dans l'atténuation et l'adaptation au changement climatique. Ce projet vise à améliorer la compréhension de la capacité de séquestration du carbone des principaux types de milieux humides au Canada afin de mieux quantifier le rôle des milieux humides en tant que solutions naturelles pour lutter contre le changement climatique. Il s'agit notamment de quantifier le bilan net de carbone de l'écosystème (BNCE) de quatre types de milieux humides dans des conditions naturelles (tourbière ouverte, tourbière boisée, marécage arboré et marais littoral) afin d'aider à cibler la protection et la conservation des milieux ayant la plus forte capacité d'atténuation du changement climatique. Le BNCE des mêmes types de milieux humides dans des conditions perturbées sera également mesuré, afin d'améliorer les connaissances sur les impacts des perturbations anthropiques sur le bilan carbone de ces milieux humides. Cette comparaison entre les conditions naturelles et perturbées aidera nos partenaires (Ministère de l'Environnement, de la Lutte contre le changement climatique, de la Faune et des Parcs (MELCCFP), Canards Illimités Canada (CIC) et Conservation de la nature Canada (CNC)) à soutenir les décisions pour la conservation des stocks de carbone, la réduction des émissions de gaz à effet de serre (GES) et l'optimisation de la séquestration du carbone dans les sols et la biomasse ligneuse.  
 
-The conservation of wetlands to prevent the destruction and degradation of important carbon stocks, as well
-as the recognition of the role of ecosystems in climate change mitigation and adaptation, are priorities set by
-the governments of Quebec and Canada.
-
-This project aims to improve understanding the carbon sequestration capacity of key wetland types across
-Canada to better quantify the role of wetlands as nature-based climate solutions to fight climate change. This
-includes quantifying the net ecosystem carbon balance (NECB) of four types of wetlands under natural
-conditions (open bog, forested bog, treed swamp, and coastal marsh) to help prioritizing the protection and
-conservation of areas with the strongest capacity to mitigate climate change. We will also quantify the NECB
-of the same wetland types under disturbed conditions as knowledge about the impacts of anthropogenic
-disturbances on the carbon balances of these wetlands. This comparison between natural and disturbed
-conditions will help our partners (Ministère de l'Environnement, de la Lutte contre le changement
-climatique, de la Faune et des Parcs (MELCCFP), Ducks Unlimited Canada and Nature Conservancy Canada
-- Québec) to support decisions for carbon stocks conservation, reduction of greenhouse gas emissions, and
-optimization of carbon sequestration in soils and biomass.
-
-The NECB approach integrates land-atmosphere gas exchange (i.e., vertical fluxes), carbon accumulation in
-soils and biomass, and lateral carbon export (i.e., lateral fluxes) in its various forms. This will be realized
-through a watershed-scale continuum approach. The support of the Quebec government in this project
-request is significant because the proposed research will have concrete implications through conservation and
-land-use practices not only for Quebec but also for Canada. 
+L'approche du BNCE intègre les échanges de gaz entre la terre et l'atmosphère (c'est-à-dire les flux verticaux), l'accumulation du carbone dans les sols et la biomasse, et l'exportation latérale du carbone (c'est-à-dire les flux latéraux) sous ses diverses formes. Ceci sera réalisé à travers une approche de continuum à l'échelle du bassin versant. L'appui du gouvernement du Québec à cette demande de projet est important, car la recherche proposée aura des répercussions concrètes sur les pratiques de conservation et d'utilisation des terres, non seulement pour le Québec, mais aussi pour le Canada.
 
 ![](./images/NECB.png){fig-align="center"}
+
+<!--<form action="http://formspree.io/you@email.com">
+<input type="email" name="_replyto">\
+<textarea   name="body"></textarea>\
+<input type="submit" value="Send">
+</form>
+-->
