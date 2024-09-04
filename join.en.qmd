@@ -1,6 +1,0 @@
----
-title: "Join us!"
-sidebar: home
----
-
-This page will be updated with masters and PhD thesis projects as well as PostDoc positions as they become available.
