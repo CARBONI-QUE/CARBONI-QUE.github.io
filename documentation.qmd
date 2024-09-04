@@ -1,5 +1,0 @@
----
-title: "Documentation"
----
-
-La documentation est uniquement disponible en anglais. Veuillez voir ici : <a href="https://carboni-que.github.io/en/documentation.html">https://carboni-que.github.io/en/documentation.html<a>
