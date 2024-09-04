@@ -1,0 +1,6 @@
+---
+title: "Rejoignez-nous !"
+sidebar: accueil
+---
+
+Cette page sera mise à jour avec les projets de maîtrise et de doctorat et ainsi que des postes PostDoc dès qu'ils seront disponibles.
