@@ -3,74 +3,80 @@ project:
   output-dir: docs
 
 website:
+  cookie-consent: true
+  site-url: https://schlaipferm.github.io
   title: "CARBONIQUE"
   navbar:
-    background: light
     left:
-      - href: index.qmd
-        text: Home/Accueil
-      - href: Documentation/index.qmd
-        text: Documentation
-      # - href: FieldWorkProcedures.qmd
-      #   text: Site Monitoring & Field Work
-      - href: Data.qmd
-        text: Field Sites & Data
-      - href: OutreachNews.qmd
-        text: Outreach and News
+      - documentation.qmd
+      - data.qmd
+      - news.qmd
+
     right:
       - icon: github
         href: https://github.com/carboni-que
         aria-label: Quarto GitHub
+      - icon: box-arrow-in-right
+        href: https://carbonique-signin-auth.web.app/index.html
+        aria-label: Login
   sidebar:
-    - id: home
-      title: "Home/Accueil"
+    - id: accueil
+      title: "Accueil"
       style: "floating"
       collapse-level: 3
       align: left
       contents:
         - href: index.qmd
-          text: Home/Accueil
-        - href: Research.qmd
-          text: Research/Recherche
-        - href: People.qmd
-          text: People/Équipe
-        - href: Publications.qmd
-          text: Publications
-    - id: documentation
-      title: "Documentation"
+          text: Accueil
+        - href: research.qmd
+          text: Recherche
+        - href: people.qmd
+          text: Équipe
+        - href: join.qmd
+          text: Rejoignez-nous
+        # - href: Publications.qmd
+        #   text: Publications
+        - href: partners.qmd
+          text: Partenaires
+    - id: home
+      title: "Home"
       style: "floating"
       collapse-level: 3
       align: left
       contents:
-        - href: Documentation/index.qmd
+        - href: index.qmd
           text: Home
-        - href: Documentation/DataWorkflows.qmd
-          text: Data pipeline
-        - href: Documentation/UsingGit.qmd
-          text: Using Git
-        - section: Site Monitoring & Field Work  
-          contents:
-          - href: Documentation/Fieldwork/DailyMonitoring.qmd
-            text: Daily monitoring
-          - href: Documentation/Fieldwork/FieldworkProcedures.qmd
-            text: Fieldwork Protocols & Procedures
-          - href: Documentation/Fieldwork/Calibration.qmd
-            text: Calibration
-          - href: Documentation/Fieldwork/Cleaning.qmd
-            text: Cleaning
-          - href: Documentation/Fieldwork/DataEntry.qmd
-            text: Field Data Entry
-        
+        - href: research.qmd
+          text: Research
+        - href: people.qmd
+          text: People
+        # - href: Publications.qmd
+        #   text: Publications
+        - href: join.qmd
+          text: Join us!
+        - href: partners.qmd
+          text: Partners
+
 format:
   html:
-    theme: cosmo
+    theme:
+      - sandstone
+      - custom.scss
     css: styles.css
     toc: true
 
 
-knitr:
-  opts_chunk: 
-    echo: false
-    warning: false
-    message: false
 
+
+babelquarto:
+  languagecodes:
+  - name: fr
+    text: "Français"
+  - name: en
+    text: "English"
+  mainlanguage: 'fr'
+  languages: ['en']
+title-en: "CARBONIQUE"
+description-en: description in en
+author-en: author in en
+lang: fr

@@ -1,301 +1,302 @@
 ---
-title: "People"
+title: "Équipe"
+sidebar: accueil
 ---
-## Principal Investigators/Chercheurs
+## Chercheurs
 
-:::: {.columns}
-:::{.column width="30%"}
+:::: {layout-nrow=1}
+:::{.column width="50%"}
 
-<!--![](images/headshots/Knox-oval.png){width=85%}
--->
+![](images/team/garneau_michelle.jpg)
+
 :::
-::: {.column width="70%"}
+::: {.column width="50%"}
 
  |
 -----|:-----
-Name| Dr. Michelle Garneau
-Email|  garneau.michelle\@uqam.ca
+Nom| Dr. Michelle Garneau
+Courriel|  garneau.michelle\@uqam.ca
 <!--GitHub| [https://github.com/sknox01](https://github.com/sknox01)-->
 
 ::: 
 ::::
 
-Dr. Michelle Garneau initiated the project and built the strong collaborations with the Quebec government and the two other partners over the past year. Dr. Garneau is a Full Professor at the Université du Québec à Montréal (UQAM), where she has successfully led several research projects using innovative methods to document the impact of climate variations on C sequestration through time and space. The research carried out by her group over the past 22 years was used as a basis to modify and improve the provincial “Loi sur les milieu humides et hydriques” (LMHH) (The Wetland Habitat Law) through the addition of a specific regulation for the conservation of C stocks in different types of wetlands in Quebec. She has been asked to lead the Quebec wetland research and climate mitigation program that has resulted in the present project.  
+Michelle Garneau a initié le projet et établi de solides collaborations avec le gouvernement du Québec et les deux autres partenaires au cours de la dernière année. Professeure titulaire à l'Université du Québec à Montréal (UQAM), Mme Garneau a dirigé avec succès plusieurs projets de recherche utilisant des méthodes novatrices pour documenter l'impact des variations climatiques sur la séquestration du carbone dans le temps et l'espace. Les recherches menées par son groupe au cours des 22 dernières années ont servi de base pour modifier et améliorer la Loi provinciale "sur les milieux humides et hydriques" (LMHH) par l'ajout d'une réglementation spécifique pour la conservation des stocks de carbone dans différents types de milieux humides au Québec. Elle a été sollicitée pour diriger le programme québécois de recherche sur les milieux humides et l'atténuation des effets du climat, qui a donné lieu au présent projet.
 
 ---
 
-:::: {.columns}
-:::{.column width="30%"}
+:::: {layout-nrow=1}
+:::{.column width="50%"}
 
-<!--![](images/headshots/ketler-oval.png){width=85%}
--->
+![](images/team/knox_sara.jpg)
+
 :::
-::: {.column width="70%"}
+::: {.column width="50%"}
 
 |
 -----|:-----
-Name| Dr. Sara Helen Knox
-Email| sara.knox\@mcgill.ca
+Nom| Dr. Sara Helen Knox
+Courriel| sara.knox\@mcgill.ca
 <!--Office| PCMH B1100-->
 
 ::: 
 ::::
 
-Dr. Sara Knox is an Assistant Professor in Geography at McGill University (and formerly held a Canada Research Chair in Eco-Meteorology at UBC). Her research investigates how wetland-atmosphere exchanges of GHG, water and energy fluxes respond to a changing climate and disturbance, and how we can modify wetland management practices for climate change adaptation and mitigation. Dr. Knox has made several important contributions to understanding the climatic role of conserving and restoring wetlands across North America, with a focus on restored peatlands, wetlands in the Prairie Pothole Region of Canada, and tidal wetlands. Dr. Knox also co-led the international FLUXNET-CH4 initiative, which is a global database of eddy covariance CH4 flux measurements.
+Sara Knox est professeure adjointe de géographie à l'Université McGill, après avoir été titulaire d'une chaire de recherche du Canada en éco-météorologie à l'Université de la Colombie-Britannique (UBC). Ses recherches portent sur la manière dont les échanges de GES, d'eau et d'énergie entre les milieux humides et l'atmosphère réagissent aux changements climatiques et aux perturbations, ainsi que sur la manière de modifier les pratiques de gestion des milieux humides pour s'adapter au changement climatique et en atténuer les effets. Sara Knox a apporté plusieurs contributions importantes à la compréhension du rôle climatique de la conservation et de la restauration des milieux humides en Amérique du Nord, en mettant l'accent sur les tourbières restaurées, les milieux humides de la région des fondrières des Prairies au Canada et les milieux humides intertidales. Elle a également codirigé l'initiative internationale FLUXNET-CH4, une base de données mondiale de mesures de flux de CH4 (covariance des turbulences).
 
 ---
 
-:::: {.columns}
-:::{.column width="30%"}
+:::: {layout-nrow=1}
+:::{.column width="50%"}
 
-<!--![](images/headshots/zoran-nesic-oval.png){width=85%}
--->
+![](images/team/sonnentag_oliver.jpg)
+
 :::
-::: {.column width="70%"}
+::: {.column width="50%"}
 
  |
 -----|:-----
-Name| Dr. Oliver Sonnentag
-Email| oliver.sonnentag\@umontreal.ca
+Nom| Dr. Oliver Sonnentag
+Courriel| oliver.sonnentag\@umontreal.ca
 <!--Office| MCML 137-->
 
 ::: 
 ::::
 
-Dr. Oliver Sonnentag is an Assistant Professor and holds the Canada Research Chair in Atmospheric Biogeosciences in High Latitudes at the Université de Montréal. His research aims to understand changes in land surface-atmosphere interactions in response to increasing natural and anthropogenic pressures. He has established a transect of eddy covariance towers along a 2000-km permafrost and climate gradient across the boreal forest of northwestern Canada. He also uses remote sensing and modelling techniques to study changes in Arctic-boreal ecosystem composition, structure, and function. In addition, Sonnentag leads a training network to build local Indigenous capacity in the Northwest Territories for community-based monitoring of ecosystem changes, and is a co-investigator in NSERC CREATE LEAP, “training tomorrow’s LEAders in Permafrost thaw and northern research”.
+Oliver Sonnentag est professeur adjoint et titulaire de la Chaire de recherche du Canada en biogéosciences atmosphériques des hautes latitudes à l'Université de Montréal (UdeM). Ses recherches visent à comprendre les changements dans les interactions entre la surface terrestre et l'atmosphère en réponse à l'augmentation des pressions naturelles et anthropiques. Il a établi un transect de tours à covariance des turbulences le long d'un gradient climatique et de pergélisol de 2000 km dans la forêt boréale du nord-ouest du Canada. Il utilise également des techniques de télédétection et de modélisation pour étudier les changements dans la composition, la structure et la fonction des écosystèmes boréaux de l'Arctique. En outre, M. Sonnentag dirige un réseau de formation visant à renforcer les capacités locales des communautés autochtones dans les Territoires du Nord-Ouest en matière de surveillance communautaire des modifications des écosystèmes, et il est co-investigateur du programme CREATE LEAP du CRSNG, qui vise à former les futurs spécialistes du dégel du pergélisol et de la recherche nordique.
 
 ---
 
-:::: {.columns}
-:::{.column width="30%"}
+:::: {layout-nrow=1}
+:::{.column width="50%"}
 
-<!--![](images/headshots/zoran-nesic-oval.png){width=85%}
--->
+![](images/team/maire_vincent.jpeg)
+
 :::
-::: {.column width="70%"}
+::: {.column width="50%"}
 
  |
 -----|:-----
-Name| Dr. Vincent Maire
-Email| Vincent.Maire\@uqtr.ca
+Nom| Dr. Vincent Maire
+Courriel| Vincent.Maire\@uqtr.ca
 <!--Office| MCML 137-->
 
 ::: 
 ::::
 
-Dr. Vincent Maire is a Professor in Environmental Sciences at the Université du Québec à Trois-Rivières (UQTR). He formerly held a Junior Research Chair at UQTR in arctic functional ecology, focusing on the feedbacks of arctic vegetation changes on the dynamics of permafrost and soil functioning, including CO2 and CH4 fluxes. His research focuses on how properties and changes of vegetation and microbial communities modify soil cycling of C and nitrogen in arctic, temperate, dryland and wetland ecosystems. Since 2019, he has been involved in the Pole d’Expertise du Lac Saint-Pierre, which evaluates the role of agricultural disturbances on the functioning of the Lac Saint-Pierre shoreline. As part of this, he determined how agricultural disturbances have modified the sequestration of biomass and C into soils and the fluxes of CO2 and CH4 to the atmosphere.  
+Vincent Maire est professeur en sciences de l'environnement à l'Université du Québec à Trois-Rivières (UQTR). Il était auparavant titulaire d'une chaire de recherche junior à l'UQTR en écologie fonctionnelle arctique, se concentrant sur les rétroactions des changements de la végétation arctique sur la dynamique du pergélisol et le fonctionnement du sol, y compris les flux de CO2 et de CH4. Ses recherches portent sur la façon dont les propriétés et les changements de la végétation et des communautés microbiennes modifient le cycle du carbone et de l'azote dans le sol dans les écosystèmes arctiques, tempérés, secs et humides. Depuis 2019, il est impliqué dans le Pôle d'Expertise du Lac Saint-Pierre, qui évalue le rôle des perturbations agricoles sur le fonctionnement du littoral du Lac Saint-Pierre. Dans ce cadre, il a déterminé comment les perturbations agricoles ont modifié la séquestration de la biomasse et du C dans les sols et les flux de CO2 et de CH4 vers l'atmosphère.
 
 ---
 
-:::: {.columns}
-:::{.column width="30%"}
+:::: {layout-nrow=1}
+:::{.column width="50%"}
 
-<!--![](images/headshots/zoran-nesic-oval.png){width=85%}
--->
-:::
-::: {.column width="70%"}
-
- |
------|:-----
-Name| Dr. Alexandre Roy
-Email| Alexandre.Roy\@uqtr.ca
-<!--Office| MCML 137-->
-
-::: 
-::::
-
-Dr. Alexandre Roy, is an Assistant Professor at Université du Québec à Trois-Rivières (UQTR) and UQTR Research Chair in Northern Remote Sensing. He has worked for more than twelve years in modeling and remote sensing of the cryosphere. Since 2014, in addition to a strong expertise in snow and freeze/thaw cycles monitoring, he has contributed to enhancing the understanding of the relationships between the cryosphere and C fluxes in high latitude environments. He works in close collaboration with various space agencies (NASA, Canadian Space Agency and European Space Agency) to improve surface key variables monitoring related to C fluxes such as soil moisture, soil temperature, surface freeze/thaw state and vegetation water content.
-
----
-
-:::: {.columns}
-:::{.column width="30%"}
-
-<!--![](images/headshots/zoran-nesic-oval.png){width=85%}
--->
-:::
-::: {.column width="70%"}
-
- |
------|:-----
-Name| Dr. Marc-André Bourgault
-Email| Marc-Andre.Bourgault\@ggr.ulaval.ca
-<!--Office| MCML 137-->
-
-::: 
-::::
-
-Dr. Marc-André Bourgault is an Assistant Professor in the Department of Geography at Laval University. His area of expertise is data analysis and numerical modelling of wetland hydrology. His research investigates the hydrological and biogeochemical interactions in wetlands as well as their capacity to reduce flood risk and accumulate C. He is also involved in different agro- and hydro-climatological projects in collaboration with a broad group of researchers in which he analyzes climate simulation data and develops new indicators to quantify the risk of climate change on various socio-economic sectors. He is in charge of of a research axis in Réseau inondations intersectoriel du Québec (RIISQ), an active collaborator in centrEAU, and a research member of Institut en environnement, développement et société (Institut EDS).
-
----
-
-:::: {.columns}
-:::{.column width="30%"}
-
-<!--![](images/headshots/zoran-nesic-oval.png){width=85%}
--->
-:::
-::: {.column width="70%"}
-
- |
------|:-----
-Name| Dr. Paul A. del Giorgio
-Email| del_giorgio.paul\@uqam.ca
-<!--Office| MCML 137-->
-
-::: 
-::::
-
-Dr. Paul A. del Giorgio is a Full Professor at Université du Québec à Montréal (UQAM). He is an aquatic ecologist and biogeochemist. Since 2009 he has held the NSERC – HydroQuébec Research Chair in Carbon Biogeochemistry in Boreal Aquatic Systems (CarBBAS Chair) and has led one of the largest studies to date of greenhouse gas and C dynamics in rivers and lakes in the remote, water-rich boreal biome of Canada. His integrative aquatic research in the boreal biome has contributed to a radical re-evaluation of aquatic / terrestrial links and of the role of inland waters, including hydroelectric reservoirs, in the global C cycle. He has a strong record of developing fruitful partnerships with industry and other stake holders, including Hydro Québec and the Cree Nation of Eeyou Ischee in the James Bay, among others.
-
----
-
-:::: {.columns}
-:::{.column width="30%"}
-
-<!--![](images/headshots/zoran-nesic-oval.png){width=85%}
--->
-:::
-::: {.column width="70%"}
-
- |
------|:-----
-Name| Dr. Evelyne Thiffault
-Email|  Evelyne.Thiffault\@sbf.ulaval.ca
-<!--Office| MCML 137-->
-
-::: 
-::::
-
-Dr. Evelyne Thiffault is an Associate Professor in forest ecology and management at the department of wood and forest sciences at Université Laval and is a member of the Renewable Materials Research Centre. Her work focuses on land management and wood production for climate change mitigation. Her research program involves fundamental and applied studies of ecological processes related to C cycling between the ecosystems and the atmosphere as influenced by climate and forest management, along with work on the life-cycle of wood products and their role for meeting the needs of societies for materials and energy.
-
----
-
-## Research Assistants/Professionnels
-
-:::: {.columns}
-:::{.column width="30%"}
-
-<!--![](images/headshots/zoran-nesic-oval.png){width=85%}
--->
-:::
-::: {.column width="70%"}
-
- |
------|:-----
-Name| David Trejo
-Email|  trejo_cancino.david_ulises\@uqam.ca
-<!--Office| MCML 137-->
-
-::: 
-::::
-
-As a Research Assistant at UQAM, David Trejo tackles vital tasks in the CARBONIQUE project. He contributes by installing, maintaining, and operating cutting-edge equipment to ensure accurate data collection. This role also involves calibrating scientific equipment and assisting with database maintenance, all to further our understanding of climate change. 
-
----
-
-:::: {.columns}
-:::{.column width="30%"}
-
-<!--![](images/headshots/zoran-nesic-oval.png){width=85%}
--->
-:::
-::: {.column width="70%"}
-
- |
------|:-----
-Name| Jean-Benoit Leblond Chouinard 
-Email|  jean-benoit.leblond-chouinard.1\@ulaval.ca
-<!--Office| MCML 137-->
-
-::: 
-::::
-
-Jean-Benoit Leblond Chouinard works as a research assistant at Université Laval. In the context of the CARBONIQUE project, he is mainly in charge of installing and managing hydrological instruments. He also performs various data analysis and field-oriented tasks related to peatland hydrology. 
-
----
-
-:::: {.columns}
-:::{.column width="30%"}
-
-<!--![](images/headshots/zoran-nesic-oval.png){width=85%}
--->
-:::
-::: {.column width="70%"}
-
- |
------|:-----
-Name| Martina Schlaipfer
-Email|  schlaipfer.martina\@uqam.ca
-<!--Office| MCML 137-->
-
-::: 
-::::
-
-Martina Schlaipfer is the scientific coordinator for the CARBONIQUE project. Before moving to Canada, she worked in projects related to the GHG exchange of disturbed and rewetted agricultural peatland soils in Germany for a decade. She has experience with both eddy covariance and chamber flux measurements as well as project management. More recently, she was also involved in science communication for the Peatland Science Centre at the Weihenstephan-Triesdorf University of Applied Sciences (HSWT). 
-
----
-
-:::: {.columns}
-:::{.column width="30%"}
-
-<!--![](images/headshots/zoran-nesic-oval.png){width=85%}
--->
-:::
-::: {.column width="70%"}
-
- |
------|:-----
-Name| Léonie Perrier
-Email|  perrier.leonie\@uqam.ca
-<!--Office| MCML 137-->
-
-::: 
-::::
-
-Léonie Perrier manages field logistics, budgets, progress reports and provides student support for several research projects on carbon stock mapping, paleoecological reconstructions and carbon budgets in wetlands (Chaire de recherche sur la sequestration du carbone par les tourbières et autres milieux humides d’intérêts). CARBONIQUE is one of the many projects she contributes to.
-
----
-
-:::: {.columns}
-:::{.column width="30%"}
-
-<!--![](images/headshots/zoran-nesic-oval.png){width=85%}
--->
-:::
-::: {.column width="70%"}
-
- |
------|:-----
-Name| Olaf Kolle
-Email|  oeekolle\@outlook.de
-<!--Office| MCML 137-->
-
-::: 
-::::
-
-Olaf Kolle contributes intermittently as invited senior scientist at UQAM to the CARBONIQUE project with his expertise in field experiments and instrumentation. His main tasks are to design and implement the eddy flux towers overall (structure, lightning protection, instrumentation, data acquisition, remote access, safety measures) together with the other team members, who all contribute with their respective skills and experience. He also imparts knowledge to the new generation of researchers and technical staff.
-
----
-
-## Students/Étudiants
-
-:::: {.columns}
-::: {.column width="50%}
-
-**Joannie Beaulne**
-: *(PhD Student)*
-
-<!--![](images/headshots/darian-oval.png){width=45%}
+<!--![](images/headshots/zoran-nesic-oval.png)
 -->
 :::
 ::: {.column width="50%"}
 
-**Joannie Boulard**
-: *(M.Sc. Student)*
+ |
+-----|:-----
+Nom| Dr. Alexandre Roy
+Courriel| Alexandre.Roy\@uqtr.ca
+<!--Office| MCML 137-->
 
-<!--![](images/headshots/litman-oval.png){width=45%}
+::: 
+::::
+
+Alexandre Roy est professeur adjoint à l'Université du Québec à Trois-Rivières (UQTR) et titulaire de la chaire de recherche de l'UQTR en télédétection nordique. Il travaille depuis plus de douze ans dans le domaine de la modélisation et de la télédétection de la cryosphère. Depuis 2014, en plus d'une solide expertise dans le suivi de la neige et des cycles de gel et dégel, il a contribué à améliorer la compréhension des relations entre la cryosphère et les flux de carbone dans les environnements de haute latitude. Il travaille en étroite collaboration avec diverses agences spatiales (NASA, Agence spatiale canadienne et Agence spatiale européenne) pour améliorer la surveillance des variables clés de surface liées aux flux de carbone, telles que l'humidité du sol, la température du sol, l'état de gel/dégel de la surface et la teneur en eau de la végétation.
+
+---
+
+:::: {layout-nrow=1}
+:::{.column width="50%"}
+
+<!--![](images/headshots/zoran-nesic-oval.png)
 -->
+:::
+::: {.column width="50%"}
+
+ |
+-----|:-----
+Nom| Dr. Marc-André Bourgault
+Courriel| Marc-Andre.Bourgault\@ggr.ulaval.ca
+<!--Office| MCML 137-->
+
+::: 
+::::
+
+Marc-André Bourgault est professeur adjoint au département de géographie de l'Université Laval. Son domaine d'expertise est l'analyse de données et la modélisation numérique de l'hydrologie des milieux humides. Ses recherches portent sur les interactions hydrologiques et biogéochimiques dans les milieux humides ainsi que sur leur capacité à réduire les risques d'inondation et à accumuler le carbone. Il est également impliqué dans différents projets agro- et hydro-climatologiques en collaboration avec un large groupe de chercheurs dans lesquels il analyse des données de simulation climatique et développe de nouveaux indicateurs pour quantifier le risque des changements climatiques sur divers secteurs socio-économiques. Il est responsable d'un axe de recherche du Réseau inondations intersectoriel du Québec (RIISQ), collaborateur actif du centrEAU et membre chercheur de l'Institut en environnement, développement et société (Institut EDS).
+
+---
+
+:::: {layout-nrow=1}
+:::{.column width="50%"}
+
+![](images/team/del_giorgio_paul.jpg)
+
+:::
+::: {.column width="50%"}
+
+ |
+-----|:-----
+Nom| Dr. Paul A. del Giorgio
+Courriel| del_giorgio.paul\@uqam.ca
+<!--Office| MCML 137-->
+
+::: 
+::::
+
+Paul A. del Giorgio est professeur titulaire à l'Université du Québec à Montréal (UQAM). Il est écologiste aquatique et biogéochimiste. Depuis 2009, il est titulaire de la Chaire de recherche CRSNG - Hydro-Québec en biogéochimie du carbone dans les systèmes aquatiques boréaux (Chaire CarBBAS) et a dirigé l'une des plus importantes études à ce jour sur la dynamique des gaz à effet de serre et du carbone dans les rivières et les lacs du biome boréal éloigné riche en eau du Canada. Ses recherches aquatiques intégratives dans le biome boréal ont contribué à une réévaluation radicale des liens entre l'aquatique et le terrestre et du rôle des eaux intérieures, y compris les réservoirs hydroélectriques, dans le cycle global du carbone. Il a développé des partenariats fructueux avec l'industrie et d'autres parties prenantes, notamment Hydro Québec et la nation crie d'Eeyou Ischee dans la baie James.
+
+---
+
+:::: {layout-nrow=1}
+:::{.column width="50%"}
+
+![](images/team/thiffault_evelyne.png)
+
+:::
+::: {.column width="50%"}
+
+ |
+-----|:-----
+Nom| Dr. Evelyne Thiffault
+Courriel|  Evelyne.Thiffault\@sbf.ulaval.ca
+<!--Office| MCML 137-->
+
+::: 
+::::
+
+Evelyne Thiffault est professeure agrégée en écologie et aménagement forestier au département des sciences du bois et de la forêt de l'Université Laval et membre du Centre de recherche sur les matériaux renouvelables. Ses travaux portent sur l'aménagement du territoire et la production de bois pour l'atténuation des changements climatiques. Son programme de recherche comprend des études fondamentales et appliquées des processus écologiques liés au cycle du carbone entre les écosystèmes et l'atmosphère sous l'influence du climat et de l'aménagement forestier, ainsi que des travaux sur le cycle de vie des produits du bois et leur rôle pour répondre aux besoins des sociétés en matière de matériaux et d'énergie.
+
+---
+
+## Professionnels
+
+:::: {layout-nrow=1}
+:::{.column width="50%"}
+
+![](images/team/trejo_david.jpg)
+
+:::
+::: {.column width="50%"}
+
+ |
+-----|:-----
+Nom| David Trejo
+Courriel|  trejo_cancino.david_ulises\@uqam.ca
+<!--Office| MCML 137-->
+
+::: 
+::::
+
+En tant que professionnel de recherche à l'UQAM, David accomplit des tâches essentielles dans le cadre du projet CARBONIQUE. Il contribue à l'installation, à l'entretien et au fonctionnement d'équipements de pointe afin d'assurer la précision de la collecte des données. Son rôle consiste également à calibrer l'équipement scientifique et à participer à la maintenance de la base de données, tout cela dans le but d'améliorer notre compréhension du changement climatique.
+
+---
+
+:::: {layout-nrow=1}
+:::{.column width="50%"}
+
+![](images/team/leblond-chouinard_jean-benoit.png)
+
+:::
+::: {.column width="50%"}
+
+ |
+-----|:-----
+Nom| Jean-Benoit Leblond Chouinard 
+Courriel|  jean-benoit.leblond-chouinard.1\@ulaval.ca
+<!--Office| MCML 137-->
+
+::: 
+::::
+
+Jean-Benoit travaille comme professionnel de recherche à l'Université Laval. Dans le cadre du projet CARBONIQUE, il est principalement responsable de l'installation et de la gestion des instruments hydrologiques. Il effectue également diverses tâches d'analyse de données et de terrain liées à l'hydrologie des tourbières.
+
+---
+
+:::: {layout-nrow=1}
+:::{.column width="50%"}
+
+![](images/team/schlaipfer_martina.jpg)
+
+:::
+::: {.column width="50%"}
+
+ |
+-----|:-----
+Nom| Martina Schlaipfer
+Courriel|  schlaipfer.martina\@uqam.ca
+<!--Office| MCML 137-->
+
+::: 
+::::
+
+Martina Schlaipfer est la coordinatrice scientifique du projet CARBONIQUE. Avant de s'installer au Canada, elle a travaillé pendant une dizaine d'années sur des projets liés à l'échange des gaz à effet de serre dans des tourbières agricoles perturbées et remouillées en Allemagne. Elle a de l'expérience avec les mesures de flux par covariance des turbulences et de chambres, ainsi que dans la gestion de projets. Plus récemment, elle a également été impliquée dans la communication scientifique pour le Centre scientifique des tourbières de l'Université des sciences appliquées de Weihenstephan-Triesdorf (HSWT).
+
+---
+
+:::: {layout-nrow=1}
+:::{.column width="50%"}
+
+![](images/team/perrier_leonie.png)
+
+:::
+::: {.column width="50%"}
+
+ |
+-----|:-----
+Nom| Léonie Perrier
+Courriel|  perrier.leonie\@uqam.ca
+<!--Office| MCML 137-->
+
+::: 
+::::
+
+Léonie Perrier est la coordonnatrice de la Chaire de recherche sur la séquestration du carbone par les tourbières et autres milieux humides d'intérêts. Elle gère la logistique de terrain, les budgets, les rapports d'avancement et apporte un soutien aux étudiants pour plusieurs projets de recherche sur la cartographie des stocks de carbone, les reconstructions paléoécologiques et les bilans de carbone dans les milieux humides. Elle participe activement à la mise en place du projet de recherche CARBONIQUE.
+
+---
+
+:::: {layout-nrow=1}
+:::{.column width="50%"}
+
+![](images/team/kolle_olaf.jpg)
+
+:::
+::: {.column width="50%"}
+
+ |
+-----|:-----
+Nom| Olaf Kolle
+Courriel|  oeekolle\@outlook.de
+<!--Office| MCML 137-->
+
+::: 
+::::
+
+Olaf Kolle contribue de façon intermittente au projet CARBONIQUE en tant que scientifique invité à l'UQAM, grâce à son expertise en matière de terrain et d'instrumentation. Ses principales tâches consistent à concevoir et à mettre en œuvre l'ensemble des tours à covariance des turbulences (structure, protection contre la foudre, instrumentation, acquisition de données, accès à distance, mesures de sécurité) en collaboration avec les autres membres de l'équipe, qui apportent tous leurs compétences et leur expérience respectives. Il transmet également des connaissances à la nouvelle génération de chercheurs et au personnel technique.
+
+---
+
+## Étudiants
+
+:::: {layout-nrow=1}
+::: {.column width="50%}
+
+**Joannie Beaulne**
+: *(Doctorat en sciences forestières)*
+
+![](images/team/beaulne_joannie.jpg)
+
+:::
+::: {.column width="50%"}
+
+**Joanie Boulard**
+: *(Maitrise en biologie)*
+
+![](images/team/boulard_joanie.jpg)
+
 :::
 ::::
 
@@ -303,10 +304,10 @@ Olaf Kolle contributes intermittently as invited senior scientist at UQAM to the
 ::: {.column width="50%"}
 
 **Didier Philippo**
-: *(M.Sc. Student)*
+: *(Maitrise en biologie)*
 
-<!--![](images/headshots/satriawan-oval.png){width=45%}
--->
+![](images/team/philippo_didier.jpg)
+
 
 :::
 ::::

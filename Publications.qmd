@@ -1,5 +1,0 @@
----
-title: "Publications"
----
-
-https://ubc-micromet.github.io/Publications.html
