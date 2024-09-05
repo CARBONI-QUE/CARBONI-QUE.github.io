@@ -4,8 +4,7 @@ project:
 
 website:
   cookie-consent: true
-  site-url: http://carbonique.ca/
-  repo-url: https://github.com/CARBONI-QUE/CARBONI-QUE.github.io
+  site-url: https://carboni-que.github.io
   title: "CARBONIQUE"
   navbar:
     left:

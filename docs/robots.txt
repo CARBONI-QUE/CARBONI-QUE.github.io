@@ -1,1 +1,1 @@
-Sitemap: http://carbonique.ca/sitemap.xml
+Sitemap: https://carboni-que.github.io/sitemap.xml
