@@ -1,12 +1,11 @@
 project:
   type: website
   output-dir: docs
-  resources: 
-    - CNAME
 
 website:
   cookie-consent: true
-  site-url: https://carboni-que.github.io
+  site-url: http://carbonique.ca/
+  repo-url: https://github.com/CARBONI-QUE/CARBONI-QUE.github.io
   title: "CARBONIQUE"
   navbar:
     left:
