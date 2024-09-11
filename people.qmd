@@ -91,8 +91,8 @@ Vincent Maire est professeur en sciences de l'environnement à l'Université du 
 :::: {layout-nrow=1}
 :::{.column width="50%"}
 
-<!--![](images/headshots/zoran-nesic-oval.png)
--->
+![](images/team/roy_alexandre.jpg)
+
 :::
 ::: {.column width="50%"}
 
