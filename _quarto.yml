@@ -5,8 +5,10 @@ project:
 website:
   cookie-consent: true
   site-url: https://carboni-que.github.io
-  title: "CARBONIQUE"
+  #title: CARBONIQUE
+  favicon: images/logos/CQ-Logo-Icon-Color-BG@0.5x.png
   navbar:
+    logo: "images/logos/CQ-Logo-Long-Color@0.5x.png"
     left:
       - documentation.qmd
       - data.qmd
@@ -17,7 +19,7 @@ website:
         href: https://github.com/carboni-que
         aria-label: Quarto GitHub
       - icon: box-arrow-in-right
-        href: https://carbonique-signin-auth.web.app/index.html
+        href: https://uqam.sharepoint.com/sites/CARBONIQUE?xsdata=MDV8MDJ8c2NobGFpcGZlci5tYXJ0aW5hQHVxYW0uY2F8YjIxOGYzZmNlNDA0NGI2YmZmZTEwOGRjZDY0ZWVhM2F8MTJjYjRlMWE0MmRhNDkxYzkwZTE3YTdhOTc1MzUwNmZ8MHwwfDYzODYyMDg4MTYzMzA1Nzg3M3xVbmtub3dufFRXRnBiR1pzYjNkOGV5SldJam9pTUM0d0xqQXdNREFpTENKUUlqb2lWMmx1TXpJaUxDSkJUaUk2SWsxaGFXd2lMQ0pYVkNJNk1uMD18MHx8fA%3d%3d&sdata=S2J4UXhkaWdyR1lKZEpGaE5MK3IyYnVMa2M5dlZ2QU05eUIxTHpZZGZ2ND0%3d
         aria-label: Login
   sidebar:
     - id: accueil
