@@ -1,8 +1,7 @@
 /*-- scss:defaults --*/
+// Base document colors
+$primary: #e6e6e6;
 
-// Navbar
-
-$navbar-bg: #325d88;
 
 // Fonts
 
@@ -18,4 +17,18 @@ $font-family-sans-serif:      Roboto, -apple-system, BlinkMacSystemFont, "Segoe 
 $web-font-path: "https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" !default;
 @if $web-font-path {
   @import url("#{$web-font-path}");
+}
+
+//Navs
+
+.nav-link {
+       color: #3e3f3a !important;
+    }
+    
+.nav-link:hover{
+  color: #dfd7ca !important;
+}
+    
+.nav-link.active{
+  color: white !important;
 }
