@@ -6,7 +6,7 @@ website:
   cookie-consent: true
   site-url: https://carboni-que.github.io
   #title: CARBONIQUE
-  favicon: images/logos/CQ-Logo-Icon-Color-BG@0.5x.png
+  favicon: "images/logos/CQ-Logo-Icon-Color-BG@0.5x.png"
   navbar:
     logo: "images/logos/CQ-Logo-Long-Color@0.5x.png"
     left:
@@ -78,7 +78,7 @@ babelquarto:
     text: "English"
   mainlanguage: 'fr'
   languages: ['en']
-title-en: "CARBONIQUE"
+#title-en: "CARBONIQUE"
 description-en: description in en
 author-en: author in en
 lang: fr
