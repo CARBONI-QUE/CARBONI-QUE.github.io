@@ -23,14 +23,16 @@ sidebar: home
 :::: {layout-nrow=1}
 
 :::{.column width="33%"}
-<a href="https://www.environnement.gouv.qc.ca/index_en.asp" target="_blank">![](./images/logos/MELCCFP.jpg)
+
+<a href="https://www.environnement.gouv.qc.ca/" target="_blank">![](./images/logos/plan-verte.png)
+:::
+:::{.column width="33%"}
+
+![](./images/logos/quebec.png)</a>
 :::
 
 :::{.column width="33%"}
-![](./images/logos/plan-verte.png)</a>
-:::
-
-:::{.column width="33%"}
+![](./images/logos/MELCCFP.jpg)
 :::
 
 ::::
