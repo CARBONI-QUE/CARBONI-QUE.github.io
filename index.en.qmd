@@ -1,5 +1,8 @@
 ---
 title: "CARBONIQUE - CARBON cycling In QUEbec's wetlands"
+template-partials:
+  - title-block.html
+image: images/banner_home.jpg
 sidebar: home
 ---
 
@@ -12,10 +15,9 @@ garneau.michelle@uqam.ca
 
 :::
 
+CARBONIQUE is a 5-year research program, jointly funded by an NSERC Alliance - Advantage grant and Quebec's Ministry of the Environment and the Fight Against Climate Change through their 2030 Plan for a Green Economy with in-kind contributions from all project partners.
 
-The conservation of wetlands to prevent the destruction and degradation of important carbon stocks, as well
-as the recognition of the role of ecosystems in climate change mitigation and adaptation, are priorities set by
-the governments of Quebec and Canada.
+The conservation of wetlands to prevent the destruction and degradation of important carbon stocks, as well as the recognition of the role of ecosystems in climate change mitigation and adaptation, are priorities set by the governments of Quebec and Canada.
 
 This project aims to improve understanding the carbon sequestration capacity of key wetland types across
 Canada to better quantify the role of wetlands as nature-based climate solutions to fight climate change. This
