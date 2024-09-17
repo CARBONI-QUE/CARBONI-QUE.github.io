@@ -24,15 +24,12 @@ sidebar: home
 
 :::{.column width="33%"}
 
-<a href="https://www.environnement.gouv.qc.ca/" target="_blank">![](./images/logos/plan-verte.png)
+<a href="https://www.environnement.gouv.qc.ca/" target="_blank">![](./images/logos/MELCCFP.jpg)</a>
 :::
 :::{.column width="33%"}
-
-![](./images/logos/quebec.png)</a>
 :::
 
 :::{.column width="33%"}
-![](./images/logos/MELCCFP.jpg)
 :::
 
 ::::
@@ -54,6 +51,26 @@ sidebar: home
 :::
 
 :::: 
+
+## Funding
+
+:::: {layout-nrow=1}
+:::{.column width="33%"}
+
+<a href="https://www.nserc-crsng.gc.ca/Innovate-Innover/alliance-alliance/index_eng.asp" target="_blank">![](./images/logos/NSERC.png)</a>
+:::
+
+:::{.column width="33%"}
+
+<a href="https://www.environnement.gouv.qc.ca/" target="_blank">![](./images/logos/plan-verte.png)
+:::
+
+:::{.column width="33%"}
+
+![](./images/logos/quebec.png)</a>
+:::
+
+::::
 
 ## External
 
