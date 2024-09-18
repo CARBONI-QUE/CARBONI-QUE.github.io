@@ -1,7 +1,8 @@
 ---
-title: "CARBONIQUE - Étude du cycle du CARBONe dans les milieux humIdes du QUÉbec"
+title: "Home"
 template-partials:
   - title-block.html
+toc: false
 image: images/banner_home.jpg
 sidebar: accueil
 ---
@@ -14,6 +15,8 @@ Dr. Michelle Garneau
 garneau.michelle@uqam.ca
 
 :::
+
+# "CARBONIQUE - Étude du cycle du CARBONe dans les milieux humIdes du QUÉbec"
 
 CARBONIQUE est un programme de recherche de 5 ans, financé conjointement par une subvention Alliance - Avantage du CRSNG et du ministère de l'Environnement et de la Lutte contre les changements climatiques du Québec dans le cadre de leur Plan pour une économie verte 2030 avec des apports en nature de tous les partenaires du projet.
 
