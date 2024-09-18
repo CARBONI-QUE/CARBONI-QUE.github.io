@@ -113,8 +113,8 @@ Dr. Alexandre Roy, is an Assistant Professor at Université du Québec à Trois-
 :::: {layout-nrow=1}
 :::{.column width="50%"}
 
-<!--![](images/headshots/zoran-nesic-oval.png){width=85%}
--->
+![](images/team/bourgault_marc-andre.jpg)
+
 :::
 ::: {.column width="50%"}
 

@@ -112,8 +112,8 @@ Alexandre Roy est professeur adjoint à l'Université du Québec à Trois-Riviè
 :::: {layout-nrow=1}
 :::{.column width="50%"}
 
-<!--![](images/headshots/zoran-nesic-oval.png)
--->
+![](images/team/bourgault_marc-andre.jpg)
+
 :::
 ::: {.column width="50%"}
 

@@ -2,6 +2,7 @@
 title: "CARBONIQUE - CARBON cycling In QUEbec's wetlands"
 template-partials:
   - title-block.html
+toc: false
 image: images/banner_home.jpg
 sidebar: home
 ---
