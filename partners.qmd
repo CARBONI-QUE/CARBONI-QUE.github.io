@@ -61,7 +61,7 @@ sidebar: accueil
 
 :::{.column width="33%"}
 
-<a href="https://www.environnement.gouv.qc.ca/" target="_blank">![](./images/logos/plan-verte.png)
+<a href="https://www.quebec.ca/gouvernement/politiques-orientations/plan-economie-verte" target="_blank">![](./images/logos/plan-verte.png)
 :::
 
 :::{.column width="33%"}
