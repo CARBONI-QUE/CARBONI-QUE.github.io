@@ -10,6 +10,7 @@ website:
   navbar:
     logo: "images/logos/CQ-Logo-Long-Color@0.5x.png"
     left:
+      - index.qmd
       - documentation.qmd
       - data.qmd
       - news.qmd
