@@ -110,7 +110,7 @@ cookieconsent.run({
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://uqam.sharepoint.com/sites/CARBONIQUE?xsdata=MDV8MDJ8c2NobGFpcGZlci5tYXJ0aW5hQHVxYW0uY2F8YjIxOGYzZmNlNDA0NGI2YmZmZTEwOGRjZDY0ZWVhM2F8MTJjYjRlMWE0MmRhNDkxYzkwZTE3YTdhOTc1MzUwNmZ8MHwwfDYzODYyMDg4MTYzMzA1Nzg3M3xVbmtub3dufFRXRnBiR1pzYjNkOGV5SldJam9pTUM0d0xqQXdNREFpTENKUUlqb2lWMmx1TXpJaUxDSkJUaUk2SWsxaGFXd2lMQ0pYVkNJNk1uMD18MHx8fA%3d%3d&amp;sdata=S2J4UXhkaWdyR1lKZEpGaE5MK3IyYnVMa2M5dlZ2QU05eUIxTHpZZGZ2ND0%3d"> <i class="bi bi-box-arrow-in-right" role="img" aria-label="Login">
+    <a class="nav-link" href="https://uqam.sharepoint.com/sites/CARBONIQUE?xsdata=MDV8MDJ8c2NobGFpcGZlci5tYXJ0aW5hQHVxYW0uY2F8YjIxOGYzZmNlNDA0NGI2YmZmZTEwOGRjZDY0ZWVhM2F8MTJjYjRlMWE0MmRhNDkxYzkwZTE3YTdhOTc1MzUwNmZ8MHwwfDYzODYyMDg4MTYzMzA1Nzg3M3xVbmtub3dufFRXRnBiR1pzYjNkOGV5SldJam9pTUM0d0xqQXdNREFpTENKUUlqb2lWMmx1TXpJaUxDSkJUaUk2SWsxaGFXd2lMQ0pYVkNJNk1uMD18MHx8fA%3d%3d&amp;sdata=S2J4UXhkaWdyR1lKZEpGaE5MK3IyYnVMa2M5dlZ2QU05eUIxTHpZZGZ2ND0%3d"> <i class="bi bi-box-arrow-in-right" role="img" aria-label="Login Sharepoint">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -610,6 +610,16 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
        
     </div>
   </div>
-</footer></a>
+</footer><script type="text/javascript">
+var elements = document.querySelectorAll('[aria-label]');
+
+for (var i = 0; i < elements.length; i++) {
+  var ariaLabel = elements[i].getAttribute('aria-label');
+  elements[i].setAttribute('data-bs-title', ariaLabel);
+  elements[i].setAttribute('data-bs-toggle', 'tooltip');
+}
+const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
+const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
+</script></a>
 </body>
 </html>
