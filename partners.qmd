@@ -54,7 +54,7 @@ sidebar: accueil
 
 ## Financement
 
-:::: {layout-nrow=1}
+:::: {layout-nrow=2}
 :::{.column width="33%"}
 <a href="https://www.nserc-crsng.gc.ca/Innovate-Innover/alliance-alliance/index_fra.asp" target="_blank">![](./images/logos/NSERC.png)</a>
 :::
@@ -67,6 +67,17 @@ sidebar: accueil
 :::{.column width="33%"}
 
 ![](./images/logos/quebec.png)</a>
+:::
+
+:::{.column width="33%"}
+
+<a href="https://www.canards.ca/" target="_blank">![](./images/logos/CIC.jpg)</a>
+:::
+
+:::{.column width="33%"}
+:::
+
+:::{.column width="33%"}
 :::
 
 ::::
