@@ -54,7 +54,7 @@ sidebar: home
 
 ## Funding
 
-:::: {layout-nrow=1}
+:::: {layout-nrow=2}
 :::{.column width="33%"}
 
 <a href="https://www.nserc-crsng.gc.ca/Innovate-Innover/alliance-alliance/index_eng.asp" target="_blank">![](./images/logos/NSERC.png)</a>
@@ -68,6 +68,16 @@ sidebar: home
 :::{.column width="33%"}
 
 ![](./images/logos/quebec.png)</a>
+:::
+
+:::{.column width="33%"}
+
+<a href="https://www.ducks.ca/" target="_blank">![](./images/logos/DUC.png)</a>
+:::
+
+:::{.column width="33%"}
+:::
+:::{.column width="33%"}
 :::
 
 ::::
