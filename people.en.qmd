@@ -260,6 +260,27 @@ Léonie Perrier manages field logistics, budgets, progress reports and provides 
 :::: {layout-nrow=1}
 :::{.column width="50%"}
 
+<!-- ![](images/team/nesic_zoran_temp.png) -->
+
+:::
+::: {.column width="50%"}
+
+ |
+-----|:-----
+Nom| Zoran Nesic
+Courriel|  zoran.nesic\@ubc.ca
+<!--Office| MCML 137-->
+
+::: 
+::::
+
+Zoran Nesic is a senior research engineer at the University of British Columbia (UBS). He is responsible for management of numerous research and equipment design projects for various faculties and departments at UBC. He designs eddy covariance and soil respiration systems that are used at various North American universities as well as by other research institutions. His main research interests are (1) the design of automated measurement systems for long-term environmental measurements and (2) the standardization of measurement and data processing procedures to ensure high quality and reproducibility of research results.
+
+---
+
+:::: {layout-nrow=1}
+:::{.column width="50%"}
+
 ![](images/team/kolle_olaf.jpg)
 
 :::
