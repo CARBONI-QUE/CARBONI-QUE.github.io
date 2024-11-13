@@ -261,6 +261,27 @@ Léonie Perrier est la coordonnatrice de la Chaire de recherche sur la séquestr
 :::: {layout-nrow=1}
 :::{.column width="50%"}
 
+<!-- ![](images/team/nesic_zoran_temp.png) -->
+
+:::
+::: {.column width="50%"}
+
+ |
+-----|:-----
+Nom| Zoran Nesic
+Courriel|  zoran.nesic\@ubc.ca
+<!--Office| MCML 137-->
+
+::: 
+::::
+
+Zoran Nesic est ingénieur de recherche principal à l'Université de la Colombie-Britannique (UBC). Il est responsable de la gestion de nombreux projets de recherche et de conception d'équipements pour diverses facultés et départements de l'UBC. Il conçoit des systèmes de covariance de flux et de respiration du sol qui sont utilisés dans diverses universités nord-américaines ainsi que par d'autres instituts de recherche. Ses principaux intérêts de recherche sont (1) la conception de systèmes de mesure automatisés pour les mesures environnementales à long terme et (2) la standardisation des procédures de mesure et de traitement des données pour assurer une haute qualité et reproductibilité des résultats de recherche.
+
+---
+
+:::: {layout-nrow=1}
+:::{.column width="50%"}
+
 ![](images/team/kolle_olaf.jpg)
 
 :::
