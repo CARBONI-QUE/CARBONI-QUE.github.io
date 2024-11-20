@@ -55,10 +55,7 @@ sidebar: home
 ## Funding
 
 :::: {layout-nrow=2}
-:::{.column width="33%"}
 
-<a href="https://www.nserc-crsng.gc.ca/Innovate-Innover/alliance-alliance/index_eng.asp" target="_blank">![](./images/logos/NSERC.png)</a>
-:::
 
 :::{.column width="33%"}
 
@@ -69,6 +66,12 @@ sidebar: home
 
 ![](./images/logos/quebec.png)</a>
 :::
+
+:::{.column width="33%"}
+
+<a href="https://www.nserc-crsng.gc.ca/Innovate-Innover/alliance-alliance/index_eng.asp" target="_blank">![](./images/logos/NSERC.png)</a>
+:::
+
 
 :::{.column width="33%"}
 
