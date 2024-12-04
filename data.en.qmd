@@ -30,7 +30,8 @@ This web-app shows the sites where we operate Eddy Covariance towers and Flux Ch
 :::{.column width="65%"}
 
 * A flux tower was installed in summer 2024
-  - more info to come
+  - Get an impression of the site conditions in near real-time on the <a href="https://phenocam.nau.edu/webcam/sites/lspdisturbedmarsh/">Phenocam Network website</a>
+  - Data download for <a href="https://ameriflux.lbl.gov/sites/siteinfo/CA-CQ1">CA-CQ1</a> will be available in the future through Ameriflux
 
 ::: 
 
