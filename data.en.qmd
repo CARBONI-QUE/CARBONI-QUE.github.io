@@ -6,7 +6,7 @@ title: "Field Sites & Data"
 ## Field Sites
 This web-app shows the sites where we operate Eddy Covariance towers and Flux Chamber sites in wetlands across southern Quebec.
 
-* Click the points to sites to see more information.
+Click the points to sites to see more information.
 
 <div style="overflow: hidden;
   padding-top: 75%;
@@ -135,3 +135,26 @@ This web-app shows the sites where we operate Eddy Covariance towers and Flux Ch
 <!-- Our <a href="https://github.com/ubc-micromet">lab github</a> hosts code for flux processing, README docs for our lab, and various other bits of information. -->
 
 More documentation related to maintenance procedures for our sites can be found <a href="https://www.carbonique.ca/en/documentation.html">here</a>.
+
+
+## Data
+
+This data visualization tool shows data recorded at our eddy covariance flux towers in southern Quebec.
+
+Please use the drop-down menus to select the site and variable you would like to see.
+
+<div style="overflow: hidden;
+  padding-top: 75%;
+  position: relative">
+  <iframe src="https://288-gic-rshiny.geog.mcgill.ca/knox/carbonique/" title="Processes" scrolling="yes" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+
+ <a href="https://288-gic-rshiny.geog.mcgill.ca/knox/carbonique/">View data visualization in separate window</a> 

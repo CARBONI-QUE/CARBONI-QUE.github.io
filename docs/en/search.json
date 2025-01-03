@@ -128,7 +128,14 @@
     "href": "data.html#field-sites",
     "title": "Field Sites & Data",
     "section": "Field Sites",
-    "text": "Field Sites\nThis web-app shows the sites where we operate Eddy Covariance towers and Flux Chamber sites in wetlands across southern Quebec.\n\nClick the points to sites to see more information.\n\n\n\n&lt;p&gt;\nYour browser does not support iframes.\n&lt;/p&gt;\n&lt;p&gt;\n\nView map in separate window\n\nLac Saint-Pierre disturbed marsh (UQAM1)\n\n\n\n\n\n\n\nA flux tower was installed in summer 2024\n\nGet an impression of the site conditions in near real-time on the Phenocam Network website\nData download for CA-CQ1 will be available in the future through Ameriflux\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMore documentation related to maintenance procedures for our sites can be found here."
+    "text": "Field Sites\nThis web-app shows the sites where we operate Eddy Covariance towers and Flux Chamber sites in wetlands across southern Quebec.\nClick the points to sites to see more information.\n\n\n&lt;p&gt;\nYour browser does not support iframes.\n&lt;/p&gt;\n&lt;p&gt;\n\nView map in separate window\n\nLac Saint-Pierre disturbed marsh (UQAM1)\n\n\n\n\n\n\n\nA flux tower was installed in summer 2024\n\nGet an impression of the site conditions in near real-time on the Phenocam Network website\nData download for CA-CQ1 will be available in the future through Ameriflux\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMore documentation related to maintenance procedures for our sites can be found here."
+  },
+  {
+    "objectID": "data.html#data",
+    "href": "data.html#data",
+    "title": "Field Sites & Data",
+    "section": "Data",
+    "text": "Data\nThis data visualization tool shows data recorded at our eddy covariance flux towers in southern Quebec.\nPlease use the drop-down menus to select the site and variable you would like to see.\n\n\n&lt;p&gt;\nYour browser does not support iframes.\n&lt;/p&gt;\n&lt;p&gt;\n\nView data visualization in separate window"
   },
   {
     "objectID": "index.html",
