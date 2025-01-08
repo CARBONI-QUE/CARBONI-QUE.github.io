@@ -1,8 +1,6 @@
 ---
 title: "Rejoignez-nous !"
 sidebar: accueil
-resources: 
-  - 2024_09_27_ULaval.pdf
 ---
 
 Cette page sera mise à jour avec les projets de maîtrise et de doctorat et ainsi que des postes PostDoc dès qu'ils seront disponibles.
