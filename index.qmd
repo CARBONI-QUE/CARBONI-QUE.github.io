@@ -9,10 +9,14 @@ sidebar: accueil
 
 ::: {.column-margin}
 **Coordonnées**
-
-Dr. Michelle Garneau
-
-garneau.michelle@uqam.ca
+<br /><br />
+Chercheuse principale:<br />
+[Dr. Michelle Garneau](mailto:garneau.michelle@uqam.ca)
+<br /><br />
+Coordonnatrice de projet:<br />
+[Martina Schlaipfer](mailto:schlaipfer.martina@uqam.ca)
+<br /><br />
+[carbonique@uqam.ca](mailto:carbonique@uqam.ca)
 
 :::
 
