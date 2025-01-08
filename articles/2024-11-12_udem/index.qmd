@@ -4,6 +4,7 @@ author: "Martina Schlaipfer"
 date: "2024-11-12"
 categories: [press release,news,project,UdeM]
 image: "Screenshot 2025-01-08 121925.png"
+title-block-banner: false
 ---
 
 UdeMNouvelles, the official information channel at the University of Montreal, informs about our project and the funding that UdeM received for it.
