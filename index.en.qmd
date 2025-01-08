@@ -9,10 +9,14 @@ sidebar: home
 
 ::: {.column-margin}
 **Contact Information**
-
-Dr. Michelle Garneau
-
-garneau.michelle@uqam.ca
+<br /><br />
+Principal investigator:<br />
+[Dr. Michelle Garneau](mailto:garneau.michelle@uqam.ca)
+<br /><br />
+Project coordinator:<br /> 
+[Martina Schlaipfer](mailto:schlaipfer.martina@uqam.ca)
+<br /><br />
+[carbonique@uqam.ca](mailto:carbonique@uqam.ca)
 
 :::
 
