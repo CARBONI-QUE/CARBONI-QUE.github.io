@@ -10,4 +10,4 @@ sidebar: actualites
 
 Veuillez changer la langue du site Web en anglais pour voir la couverture médiatique en anglais.
 
-Pour les textes complets (dans un PDF téléchargeable), veuillez cliquer sur la publication correspondante.
+Pour les textes complets (PDF téléchargeables), veuillez cliquer sur les publications correspondantes.

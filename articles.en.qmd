@@ -10,4 +10,4 @@ sidebar: news
 
 Please switch the website's language to French to see French language media coverage.
 
-For the full texts (in a downloadable PDF) please click on the respective posting.
+For the full texts (downloadable PDFs) please click on the respective postings.
