@@ -1,8 +1,6 @@
 ---
 title: "Join us!"
 sidebar: home
-resources: 
-  - 2024_09_27_ULaval_en.pdf
 ---
 
 This page will be updated with masters and PhD thesis projects as well as PostDoc positions as they become available.

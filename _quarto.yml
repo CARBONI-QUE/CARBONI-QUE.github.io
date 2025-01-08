@@ -59,7 +59,26 @@ website:
           text: Join us!
         - href: partners.qmd
           text: Partners
-
+    - id: actualites
+      title: "Outreach and News"
+      style: "floating"
+      collapse-level: 3
+      align: left
+      contents:
+        - href: news.qmd
+          text: Mises à jour du projet
+        - href: articles.qmd
+          text: Dans les médias
+    - id: news
+      title: "Outreach and News"
+      style: "floating"
+      collapse-level: 3
+      align: left
+      contents:
+        - href: news.qmd
+          text: Project Updates
+        - href: articles.qmd
+          text: In the media
 format:
   html:
     theme:
