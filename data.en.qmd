@@ -22,7 +22,7 @@ Click the points to sites to see more information.
  </iframe>
 </div>
 
- <a href="https://www.carbonique.ca/FieldSiteMaps/">View map in separate window</a> 
+ <a href="https://www.carbonique.ca/FieldSiteMaps/" target="_blank">View map in separate window</a> 
 
 ### Lac Saint-Pierre disturbed marsh (UQAM1)
 :::: {layout-nrow=1}
@@ -157,4 +157,4 @@ Please use the drop-down menus to select the site and variable you would like to
  </iframe>
 </div>
 
- <a href="https://288-gic-rshiny.geog.mcgill.ca/knox/carbonique/">View data visualization in separate window</a> 
+ <a href="https://288-gic-rshiny.geog.mcgill.ca/knox/carbonique/" target="_blank">View data visualization in separate window</a> 
