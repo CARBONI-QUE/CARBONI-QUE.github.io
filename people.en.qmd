@@ -273,7 +273,28 @@ Email|  perrier.leonie\@uqam.ca
 ::: 
 ::::
 
-Léonie Perrier manages field logistics, budgets, progress reports and provides student support for several research projects on carbon stock mapping, paleoecological reconstructions and carbon budgets in wetlands (Chaire de recherche sur la sequestration du carbone par les tourbières et autres milieux humides d’intérêts). CARBONIQUE is one of the many projects she contributes to.
+Léonie Perrier manages field logistics, budgets, progress reports and provides student support for several research projects on carbon stock mapping, paleoecological reconstructions and carbon budgets in wetlands (Chaire de recherche québécoise portant sur l’étude du CARbone dans les milieux humides comme solution fondée sur la nature pour lutter contre le changement CLImatiQUE (CARCLIQUE)). CARBONIQUE is one of the many projects she contributes to.
+
+---
+
+:::: {layout-nrow=1}
+:::{.column width="50%"}
+
+![](images/team/de_melo_michaela.jpg)
+
+:::
+::: {.column width="50%"}
+
+ |
+-----|:-----
+Name| Michaela de Melo
+Email| ladeira_de_melo.michaela\@uqam.ca
+<!--Office| MCML 137-->
+
+::: 
+::::
+
+Michaela de Melo is a biologist and research assistant at the Carbon Biogeochemistry Laboratory in Boreal Aquatic systems (UQÀM, Prof. Paul del Giorgio). Before moving to Canada, she completed a master's degree on the metabolism of large Amazonian rivers and a doctorate on the microbial ecology and dynamics of dissolved organic matter in floodplain lakes in the Brazilian Amazon. As a postdoctoral fellow, she studied hydrology and river exports in eastern James Bay using autonomous high-frequency measurements. Michaela collaborates on several projects on the biogeochemistry of reservoirs, lakes and rivers in various environmental contexts.
 
 ---
 
