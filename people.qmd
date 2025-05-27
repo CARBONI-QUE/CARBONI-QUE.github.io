@@ -346,7 +346,7 @@ Olaf Kolle contribue de façon intermittente au projet CARBONIQUE en tant que sc
 :::: {layout-nrow=1}
 ::: {.column width="50%}
 
-**Joannie Beaulne**
+**Joannie Beaulne (ULaval**
 : *(Doctorat en sciences forestières)*
 
 ![](images/team/beaulne_joannie.jpg)
@@ -354,7 +354,7 @@ Olaf Kolle contribue de façon intermittente au projet CARBONIQUE en tant que sc
 :::
 ::: {.column width="50%"}
 
-**Joanie Boulard**
+**Joanie Boulard (UQAM)**
 : *(Maitrise en biologie)*
 
 ![](images/team/boulard_joanie.jpg)
@@ -362,14 +362,22 @@ Olaf Kolle contribue de façon intermittente au projet CARBONIQUE en tant que sc
 :::
 ::::
 
-:::: {.columns}
+:::: {layout-nrow=1}
 ::: {.column width="50%"}
 
-**Didier Philippo**
+**Didier Philippo (UQAM)**
 : *(Maitrise en biologie)*
 
 ![](images/team/philippo_didier.jpg)
 
+
+:::
+::: {.column width="50%"}
+
+**Albert Chalifoux (ULaval)**
+: *(Maitrise en sciences géographiques)*
+
+![](images/team/chalifoux_albert.jpg)
 
 :::
 ::::
