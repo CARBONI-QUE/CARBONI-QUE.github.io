@@ -361,7 +361,7 @@ Olaf Kolle contributes intermittently as invited senior scientist at UQAM to the
 :::
 ::::
 
-:::: {.columns}
+:::: {layout-nrow=1}
 ::: {.column width="50%"}
 
 **Didier Philippo**
@@ -369,6 +369,13 @@ Olaf Kolle contributes intermittently as invited senior scientist at UQAM to the
 
 ![](images/team/philippo_didier.jpg)
 
+:::
+::: {.column width="50%"}
+
+**Albert Chalifoux (ULaval)**
+: *(M.Sc. Student)*
+
+![](images/team/chalifoux_albert.jpg)
 
 :::
 ::::
