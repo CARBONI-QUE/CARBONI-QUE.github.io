@@ -366,7 +366,7 @@ Olaf Kolle contributes intermittently as invited senior scientist at UQAM to the
 :::: {layout-nrow=1}
 ::: {.column width="50%}
 
-**Joannie Beaulne**
+**Joannie Beaulne (ULaval)**
 : *(PhD Student)*
 
 ![](images/team/beaulne_joannie.jpg)
@@ -374,7 +374,7 @@ Olaf Kolle contributes intermittently as invited senior scientist at UQAM to the
 :::
 ::: {.column width="50%"}
 
-**Joanie Boulard**
+**Joanie Boulard (UQAM)**
 : *(M.Sc. Student)*
 
 ![](images/team/boulard_joanie.jpg)
@@ -385,7 +385,7 @@ Olaf Kolle contributes intermittently as invited senior scientist at UQAM to the
 :::: {layout-nrow=1}
 ::: {.column width="50%"}
 
-**Didier Philippo**
+**Didier Philippo (UQAM)**
 : *(M.Sc. Student)*
 
 ![](images/team/philippo_didier.jpg)
