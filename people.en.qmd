@@ -29,6 +29,27 @@ Dr. Michelle Garneau initiated the project and built the strong collaborations w
 :::: {layout-nrow=1}
 :::{.column width="50%"}
 
+![](images/team/davidson_scott.jpg)
+
+:::
+::: {.column width="50%"}
+
+|
+-----|:-----
+Name| Dr. Scott Davidson
+Email| davidson.scott_j\@uqam.ca
+<!--Office| PCMH B1100-->
+
+::: 
+::::
+
+Dr. Scott J. Davidson is an Assistant Professor of Wetland Carbon Dynamics at the Université du Québec à Montréal (UQAM) and leads the Wetland Resilience Research Group. His research investigates how wetlands across Arctic, boreal, alpine, and temperate regions respond to climate change, land use, and disturbance, with a focus on carbon cycling and greenhouse gas emissions. Dr. Davidson’s work combines field measurements, remote sensing, and ecosystem modelling to understand the resilience of wetlands and their role in climate regulation. He has made key contributions to advancing knowledge of how wetland conservation and restoration support climate mitigation and has engaged in international efforts to build research networks and community science initiatives. 
+
+---
+
+:::: {layout-nrow=1}
+:::{.column width="50%"}
+
 ![](images/team/knox_sara.jpg)
 
 :::
@@ -345,7 +366,7 @@ Olaf Kolle contributes intermittently as invited senior scientist at UQAM to the
 :::: {layout-nrow=1}
 ::: {.column width="50%}
 
-**Joannie Beaulne**
+**Joannie Beaulne (ULaval)**
 : *(PhD Student)*
 
 ![](images/team/beaulne_joannie.jpg)
@@ -353,7 +374,7 @@ Olaf Kolle contributes intermittently as invited senior scientist at UQAM to the
 :::
 ::: {.column width="50%"}
 
-**Joanie Boulard**
+**Joanie Boulard (UQAM)**
 : *(M.Sc. Student)*
 
 ![](images/team/boulard_joanie.jpg)
@@ -364,7 +385,7 @@ Olaf Kolle contributes intermittently as invited senior scientist at UQAM to the
 :::: {layout-nrow=1}
 ::: {.column width="50%"}
 
-**Didier Philippo**
+**Didier Philippo (UQAM)**
 : *(M.Sc. Student)*
 
 ![](images/team/philippo_didier.jpg)
