@@ -239,6 +239,27 @@ As a Research Assistant at UQAM, David Trejo tackles vital tasks in the CARBONIQ
 :::: {layout-nrow=1}
 :::{.column width="50%"}
 
+![](images/team/lessard_laurent.jpg)
+
+:::
+::: {.column width="50%"}
+
+|
+-----|:-----
+Name| Laurent Lessard
+Email|  Laurent.Lessard2\@uqtr.ca
+<!--Office| MCML 137-->
+  
+::: 
+::::
+  
+Laurent works as a research professional at UQTR and is in charge of fieldwork coordination. Over the years, he has acquired extensive experience in fieldwork in remote regions in an Arctic context. He also maintains flux towers in Nunavik and contributes to research projects in Nunavik, Nunavut, and Western Canada. As part of the CARBONIQUE project, Laurent contributes to the installation and maintenance of flux towers and their instruments, as well as to drone vegetation surveys.
+
+---
+
+:::: {layout-nrow=1}
+:::{.column width="50%"}
+
 ![](images/team/leblond-chouinard_jean-benoit.png)
 :::
 ::: {.column width="50%"}
