@@ -235,6 +235,27 @@ Courriel|  trejo_cancino.david_ulises\@uqam.ca
 En tant que professionnel de recherche à l'UQAM, David accomplit des tâches essentielles dans le cadre du projet CARBONIQUE. Il contribue à l'installation, à l'entretien et au fonctionnement d'équipements de pointe afin d'assurer la précision de la collecte des données. Son rôle consiste également à calibrer l'équipement scientifique et à participer à la maintenance de la base de données, tout cela dans le but d'améliorer notre compréhension du changement climatique.
 
 ---
+  
+:::: {layout-nrow=1}
+:::{.column width="50%"}
+
+![](images/team/lessard_laurent.jpg)
+
+:::
+::: {.column width="50%"}
+
+|
+-----|:-----
+Nom| Laurent Lessard
+Courriel|  Laurent.Lessard2\@uqtr.ca
+<!--Office| MCML 137-->
+  
+::: 
+::::
+  
+Laurent travaille comme professionnel de recherche à l'UQTR et s'occupe de la coordination des travaux de terrain. Au fil des années, il a acquis une grande expérience en travaux de terrain en régions éloignées dans un contexte arctique. Il s'occupe également de la maintenance de tours à flux au Nunavik et contribue à des projets de recherche au Nunavik, au Nunavut et dans l'Ouest canadien. Dans le cadre du projet CARBONIQUE, Laurent contribue à l'installation et la maintenance des tours à flux et de leurs instruments ainsi qu'aux relevés de végétation par drone.
+
+---
 
 :::: {layout-nrow=1}
 :::{.column width="50%"}
