@@ -69,7 +69,7 @@ Click the points to sites to see more information.
 * A flux tower was installed in spring 2025
 * The flux tower was struck by lightning briefly after the installation
   - flux instruments were re-installed in July 2025 and the tower became fully operational again
-  - biomet sensor were working throughout
+  - biomet sensors were working throughout
 * Get an impression of the site conditions in near real-time on the <a href="https://phenocam.nau.edu/webcam/sites/latnaturalopenbog/">Phenocam Network website</a>
 * Data download for this flux tower will be available in the future through Ameriflux
 
