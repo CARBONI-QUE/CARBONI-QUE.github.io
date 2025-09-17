@@ -59,8 +59,35 @@ website:
           text: Join us!
         - href: partners.qmd
           text: Partners
+    - id: documentation
+      title: "Aperçu"
+      style: "floating"
+      collapse-level: 3
+      align: left
+      contents:
+        - href: documentation.qmd
+          text: Aperçu
+    - id: documentation_en
+      title: "Overview"
+      style: "floating"
+      collapse: true
+      align: left
+      contents:
+        - href: documentation.qmd
+          text: Overview
+        - href: onboarding.qmd
+          text: Project onboarding
+        - href: documentation/fieldwork/index.qmd
+          text: Field and maintenance procedures
+          contents:
+          - href: documentation/fieldwork/planning.qmd
+            text: Fieldwork planning
+          - href: documentation/fieldwork/monitoring.qmd
+            text: Daily site monitoring
+        - href: processing.qmd
+          text: Data processing 
     - id: actualites
-      title: "Outreach and News"
+      title: "Communications et Actualités"
       style: "floating"
       collapse-level: 3
       align: left
@@ -76,7 +103,7 @@ website:
       align: left
       contents:
         - href: news.qmd
-          text: Project Updates
+          text: Project updates
         - href: articles.qmd
           text: In the media
 format:
