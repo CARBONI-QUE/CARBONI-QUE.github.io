@@ -5,6 +5,12 @@ sidebar: home
 
 This page will be updated with masters and PhD thesis projects as well as PostDoc positions as they become available.
 
+## PostDoc opportunity at UQAM - [CarBBAS](https://carbbas.uqam.ca/){target="_blank"}
+**Deadline: open until filled**
+
+**Desired starting date: winter/spring 2026**
+![](pdf/2025_11_21_CarBBAS_en.pdf){width=100% height=800px}
+
 <!-- ## PhD/master's projects at Laval University -->
 <!-- **Deadline: October 30th 2024** -->
 <!-- ![](pdf/2024_09_27_ULaval_en.pdf){width=100% height=800px} -->
