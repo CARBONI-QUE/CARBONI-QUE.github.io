@@ -75,15 +75,15 @@ website:
       contents:
         - href: documentation.qmd
           text: Overview
-        - href: onboarding.qmd
-          text: Project onboarding and ressources
-        - href: documentation/fieldwork/index.qmd
-          text: Field and maintenance procedures
-          contents:
-          - href: documentation/fieldwork/planning.qmd
-            text: Fieldwork planning
-          - href: documentation/fieldwork/monitoring.qmd
-            text: Daily site monitoring
+        # - href: onboarding.qmd
+          # text: Project onboarding and ressources
+        # - href: documentation/fieldwork/index.qmd
+          # text: Field and maintenance procedures
+          # contents:
+          # - href: documentation/fieldwork/planning.qmd
+            # text: Fieldwork planning
+          # - href: documentation/fieldwork/monitoring.qmd
+            # text: Daily site monitoring
         - href: processing.qmd
           text: Data processing 
     - id: actualites
