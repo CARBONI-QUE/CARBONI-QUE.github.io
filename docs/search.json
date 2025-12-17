@@ -90,23 +90,14 @@
     "href": "documentation/fieldwork/planning.html",
     "title": "Fieldwork planning",
     "section": "",
-    "text": "Find essential information for each site on our SharePoint.",
-    "crumbs": [
-      "Accueil",
-      "Field and maintenance procedures",
-      "Fieldwork planning"
-    ]
+    "text": "Find essential information for each site on our SharePoint."
   },
   {
     "objectID": "documentation/fieldwork/index.html",
     "href": "documentation/fieldwork/index.html",
     "title": "Fieldwork and maintenance procedures",
     "section": "",
-    "text": "Information on field maintenance",
-    "crumbs": [
-      "Accueil",
-      "Field and maintenance procedures"
-    ]
+    "text": "Information on field maintenance"
   },
   {
     "objectID": "articles_fr/2025-07-19_radio_canada/index.html",
@@ -180,12 +171,7 @@
     "href": "documentation/fieldwork/monitoring.html",
     "title": "Daily site monitoring",
     "section": "",
-    "text": "Below are instructions for visual checks of the data that should be done every day. Web plots for each site can be found by going to:\nYou can also use the following instructions to view the data on your local computer if it is set up:",
-    "crumbs": [
-      "Accueil",
-      "Field and maintenance procedures",
-      "Daily site monitoring"
-    ]
+    "text": "Below are instructions for visual checks of the data that should be done every day. Web plots for each site can be found by going to:\nYou can also use the following instructions to view the data on your local computer if it is set up:"
   },
   {
     "objectID": "documentation.html",
@@ -214,10 +200,7 @@
     "href": "onboarding.html",
     "title": "Documentation",
     "section": "",
-    "text": "La documentation est uniquement disponible en anglais. Veuillez voir ici : https://carbonique.ca/en/documentation.html",
-    "crumbs": [
-      "Project onboarding and ressources"
-    ]
+    "text": "La documentation est uniquement disponible en anglais. Veuillez voir ici : https://carbonique.ca/en/documentation.html"
   },
   {
     "objectID": "people.html",
