@@ -3,4 +3,4 @@ title: "Data processing"
 sidebar: documentation_en
 ---
 
-Please check EcoFlux Lab website for detailed description of the data pipeline we are using for processing flux tower data.
+Please check the [EcoFlux Lab website](https://ecoflux-lab.github.io/){target="_blank"} for a detailed description of the data pipeline we are using for processing flux tower data.
