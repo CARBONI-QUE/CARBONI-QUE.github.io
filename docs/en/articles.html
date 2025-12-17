@@ -64,9 +64,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -204,8 +204,18 @@ window.Quarto = {
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
     <h5 class="quarto-listing-category-title">Categories</h5>
-<div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span>
-</div></div>
+<div class="quarto-listing-category category-default">
+<div class="category" data-category="">All <span class="quarto-category-count">(1)</span>
+</div>
+<div class="category" data-category="UdeM">UdeM <span class="quarto-category-count">(1)</span>
+</div>
+<div class="category" data-category="news">news <span class="quarto-category-count">(1)</span>
+</div>
+<div class="category" data-category="press release">press release <span class="quarto-category-count">(1)</span>
+</div>
+<div class="category" data-category="project">project <span class="quarto-category-count">(1)</span>
+</div>
+</div>
 </div>
 <!-- main -->
 <main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block default"><div class="quarto-title">
@@ -231,7 +241,49 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-
+<div class="quarto-post image-right" data-index="0" data-categories="press release,news,project,UdeM" data-listing-date-sort="1731387600000" data-listing-file-modified-sort="1736366549063" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="23">
+<div class="thumbnail">
+<p><a href="./articles/2024-11-12_udem/index.html" class="no-external"></a></p>
+<a href="./articles/2024-11-12_udem/index.html" class="no-external">
+<p><img loading="lazy" src="./articles/2024-11-12_udem/Screenshot%202025-01-08%20121925.png" class="thumbnail-image"></p>
+</a><p><a href="./articles/2024-11-12_udem/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./articles/2024-11-12_udem/index.html" class="no-external">Press release Université de Montréal</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./articles/2024-11-12_udem/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('press release'); return false;">
+press release
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
+news
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('project'); return false;">
+project
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('UdeM'); return false;">
+UdeM
+</div>
+</div>
+<div class="listing-description">
+<a href="./articles/2024-11-12_udem/index.html" class="no-external">UdeMNouvelles, the official information channel at the University of Montreal, informs about our project and the funding that UdeM received for it.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./articles/2024-11-12_udem/index.html" class="no-external">
+<div class="listing-date">
+Nov 12, 2024
+</div>
+<div class="listing-author">
+Martina Schlaipfer
+</div>
+</a>
+</div>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
