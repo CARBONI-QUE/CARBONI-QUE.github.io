@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
+<link rel="alternate" hreflang="fr" href="/documentation.html" />
+<link rel="alternate" hreflang="en" href="/en/documentation.en.html" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.5.53">
@@ -82,10 +84,10 @@ cookieconsent.run({
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
-<div class="dropdown" id="languages-links-parent">
-<button class="btn btn-primary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" id="languages-button"><i class="bi bi-globe2"></i></button><ul class="dropdown-menu" id="languages-links"><li><a class="dropdown-item" href="https://carboni-que.github.io/documentation.html" id="language-link-fr">Français</a></li></ul>
-</div>
             <ul class="navbar-nav navbar-nav-scroll me-auto">
+<li class="nav-item"><div class="dropdown" id="languages-links-parent">
+<button class="btn btn-primary dropdown-toggle babelquarto-languages-button" type="button" data-bs-toggle="dropdown" aria-expanded="false" id="languages-button"><i class="bi bi-globe2"></i> English</button><ul class="dropdown-menu" id="languages-links"><li><a class="dropdown-item" href="/documentation.html" id="language-link-fr">Français</a></li></ul>
+</div></li>
 <li class="nav-item">
     <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
@@ -139,12 +141,12 @@ cookieconsent.run({
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./onboarding.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Project onboarding</span></a>
+ <span class="menu-text">Project onboarding and ressources</span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="./documentation/fieldwork/index.html" class="sidebar-item-text sidebar-link">
+            <a href="./documentation/fieldwork/index.qmd" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Field and maintenance procedures</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
@@ -153,13 +155,13 @@ cookieconsent.run({
       <ul id="" class="collapse list-unstyled sidebar-section depth1 show">
 <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./documentation/fieldwork/planning.html" class="sidebar-item-text sidebar-link">
+  <a href="./documentation/fieldwork/planning.qmd" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Fieldwork planning</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./documentation/fieldwork/monitoring.html" class="sidebar-item-text sidebar-link">
+  <a href="./documentation/fieldwork/monitoring.qmd" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Daily site monitoring</span></a>
   </div>
 </li>
@@ -290,7 +292,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/carboni-que\.github\.io");
+      var filterRegex = new RegExp("\/en");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

@@ -76,7 +76,7 @@ website:
         - href: documentation.qmd
           text: Overview
         - href: onboarding.qmd
-          text: Project onboarding
+          text: Project onboarding and ressources
         - href: documentation/fieldwork/index.qmd
           text: Field and maintenance procedures
           contents:
