@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>/en/resources.html</loc>
+    <lastmod>2025-01-07T21:30:00.295Z</lastmod>
+  </url>
+  <url>
+    <loc>/en/processing.html</loc>
+    <lastmod>2025-09-17T13:54:43.901Z</lastmod>
+  </url>
+  <url>
+    <loc>/en/partners.html</loc>
+    <lastmod>2024-11-20T14:19:32.531Z</lastmod>
+  </url>
+  <url>
+    <loc>/en/news.html</loc>
+    <lastmod>2025-01-07T13:25:20.488Z</lastmod>
+  </url>
+  <url>
+    <loc>/en/index.html</loc>
+    <lastmod>2025-01-08T21:10:46.378Z</lastmod>
+  </url>
+  <url>
+    <loc>/en/data.html</loc>
+    <lastmod>2025-08-05T17:19:28.710Z</lastmod>
+  </url>
+  <url>
+    <loc>/en/articles.html</loc>
+    <lastmod>2025-01-08T20:09:57.850Z</lastmod>
+  </url>
+  <url>
+    <loc>/en/documentation.html</loc>
+    <lastmod>2025-09-17T13:54:43.885Z</lastmod>
+  </url>
+  <url>
+    <loc>/en/join.html</loc>
+    <lastmod>2025-11-21T16:29:15.344Z</lastmod>
+  </url>
+  <url>
+    <loc>/en/onboarding.html</loc>
+    <lastmod>2025-09-25T17:04:18.905Z</lastmod>
+  </url>
+  <url>
+    <loc>/en/people.html</loc>
+    <lastmod>2025-08-04T17:23:30.886Z</lastmod>
+  </url>
+  <url>
+    <loc>/en/research.html</loc>
+    <lastmod>2024-09-10T16:08:50.944Z</lastmod>
+  </url>
+  <url>
     <loc>https://carboni-que.github.io/resources.html</loc>
     <lastmod>2025-01-07T21:31:21.916Z</lastmod>
   </url>
@@ -26,11 +74,11 @@
   </url>
   <url>
     <loc>https://carboni-que.github.io/documentation/fieldwork/planning.html</loc>
-    <lastmod>2025-08-12T18:52:44.244Z</lastmod>
+    <lastmod>2025-09-17T13:54:43.885Z</lastmod>
   </url>
   <url>
     <loc>https://carboni-que.github.io/documentation/fieldwork/index.html</loc>
-    <lastmod>2025-08-12T17:02:46.904Z</lastmod>
+    <lastmod>2025-09-17T13:54:43.885Z</lastmod>
   </url>
   <url>
     <loc>https://carboni-que.github.io/articles_fr/2025-07-19_radio_canada/index.html</loc>
@@ -66,11 +114,11 @@
   </url>
   <url>
     <loc>https://carboni-que.github.io/documentation/fieldwork/monitoring.html</loc>
-    <lastmod>2025-08-12T20:53:20.305Z</lastmod>
+    <lastmod>2025-09-17T13:54:43.885Z</lastmod>
   </url>
   <url>
     <loc>https://carboni-que.github.io/documentation.html</loc>
-    <lastmod>2025-08-12T20:44:55.261Z</lastmod>
+    <lastmod>2025-09-17T13:54:43.885Z</lastmod>
   </url>
   <url>
     <loc>https://carboni-que.github.io/join.html</loc>
@@ -78,7 +126,7 @@
   </url>
   <url>
     <loc>https://carboni-que.github.io/onboarding.html</loc>
-    <lastmod>2025-08-12T20:45:42.889Z</lastmod>
+    <lastmod>2025-09-17T13:54:43.901Z</lastmod>
   </url>
   <url>
     <loc>https://carboni-que.github.io/people.html</loc>

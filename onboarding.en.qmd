@@ -1,6 +1,30 @@
 ---
-title: "Project onboarding"
+title: "Project onboarding and ressources"
 sidebar: documentation_en
 ---
 
-Information for new project members
+## Project onboarding
+
+If you have just joined the project, welcome! As some first steps, please
+
+1. contact Martina and/or Léonie so that they can add you to the project's SharePoint and Teams group.
+2. send your bio and picture to Martina so that she can add you to the project website.
+
+Using the SharePoint and Teams should be rather straightforward for UQAM team members. However, if you are trying to log on with an external account, things can prove more challenging.
+
+Logging into UQAM account with external email
+
+## Project ressources
+
+You can log into the project's SharePoint easily via a link in the upper righthand corner of our website:
+
+
+screenshot login
+
+It is also possible to access the SharePoint's files easily via Windows Explorer. In order to integrate
+
+Logging into the Sharepoint, overview Sharepoint
+
+Add field calendar to Outlook
+
+Weekly project meetings
