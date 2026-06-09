@@ -1,5 +1,5 @@
 ---
-title: "Radio-Canada - Les torubières, alliées incoupçonnées contre la crise climatique"
+title: "Radio-Canada - Les tourbières, alliées incoupçonnées contre la crise climatique"
 author: "Martina Schlaipfer"
 date: "2025-07-19"
 categories: [Radio-Canada,lac-à-la-tortue,uqam2,uqam3, tourbière,carbone]
