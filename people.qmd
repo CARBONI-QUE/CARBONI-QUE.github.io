@@ -198,20 +198,20 @@ Evelyne Thiffault est professeure agrégée en écologie et aménagement foresti
 :::: {layout-nrow=1}
 :::{.column width="50%"}
 
-![](images/team/umair_muhammad.jpg)
+ 
 :::
 ::: {.column width="50%"}
 
  |
 -----|:-----
-Name| Muhammad Umair
-Courriel| muhammad.umair.1\@umontreal.ca
+Nom| Rosemary Howard
+Courriel| rosemary.howard\@mcgill.ca
 <!--Office| MCML 137-->
 
 ::: 
 ::::
 
-Muhammad Umair est data scientist pour le projet CARBONIQUE. Avant d'occuper ce poste, il était chercheur postdoctoral à l'Université de Montréal (UdeM, <a href="https://atmosbios.com/fr/" target="_blank">Labo Atmosbios</a>), où ses travaux consistaient à mettre en œuvre le paramétrage de « l’optimisation stomatique basée sur l’hydraulique du xylème » dans CLASSIC (Modèle de schéma canadien de surface terrestre incluant les cycles biogéochimiques) et d’évaluer son impact sur les flux de carbone et d’eau pour des projections historiques et futures. Durant son stage postdoctoral, il a travaillé en étroite collaboration avec Oliver Sonnentag (directeur de recherche) et deux autres collaborateurs : Joe R. Melton d'Environnement et Changement climatique Canada (ECCC) et Alexander Roy de l'UQTR sur un projet financé par l'Agence spatiale canadienne (ASC). Il possède plus de cinq ans d'expérience en modélisation climatique, en télédétection et en observations de tours de flux. Il a également acquis une expérience en enseignement en travaillant comme professeur adjoint au Pakistan avant de commencer une bourse postdoctorale au Canada. De plus, il possède de l'expérience dans l'utilisation des outils IA-ML dans la modélisation climatique. Au cours de son MS-Ph.D. en Corée du Sud, il a travaillé sur le modèle terrestre communautaire (CLM, versions 4.0 et 5.0) dans le cadre de modélisation du système terrestre communautaire (CESM) et sur divers ensembles de données de télédétection (MODIS, SMAP).
+Rosie Howard est data scientist pour le projet CARBONIQUE. Elle a travaillé pendant plus de dix ans en tant qu'associée de recherche et responsable de stratégies de recherche et développement, abordant divers sujets allant de la prévision numérique du temps à la météorologie à différentes échelles. Elle a orienté ses travaux vers la science du climat en rejoignant l'EcoFlux Lab de l'Université McGill en mars 2024. Actuellement, elle travaille à la normalisation des données de corrélation des turbulences (eddy-covariance) provenant de tours de mesure de flux situées dans des milieux humides canadiennes — y compris les sites du projet CARBONIQUE — avec pour objectif global d'évaluer le rôle de ces écosystèmes en tant que solution climatique fondée sur la nature.
 
 ---
 
@@ -421,5 +421,54 @@ Olaf Kolle contribue de façon intermittente au projet CARBONIQUE en tant que sc
 
 ![](images/team/chalifoux_albert.jpg)
 
+:::
+::::
+
+:::: {layout-nrow=1}
+::: {.column width="50%"}
+**Jacob Isabelle (UQTR)**
+: *(Maitrise en sciences de l'environnement)*
+
+![](images/team/isabelle_jacob.jpeg)
+
+:::
+::: {.column width="50%"}
+
+**Dylan Gwilliam (McGill)**
+: *(Maitrise en géographie)*
+
+![](images/team/gwilliam_dylan.jpg)
+
+:::
+::::
+
+:::: {layout-nrow=1}
+::: {.column width="50%"}
+**Sidonie Phouttama (ULaval)**
+: *(Maitrise en sciences géographiques)*
+
+![](images/team/phouttama_sidonie.jpg)
+
+:::
+::: {.column width="50%"}
+
+ 
+
+:::
+::::
+
+## Alumni
+
+:::: {layout-nrow=1}
+::: {.column width="50%}
+
+**Muhammad Umair (UdeM)**
+: *(Data Scientist)*
+
+![](images/team/umair_muhammad.jpg)
+
+:::
+::: {.column width="50%"}
+ 
 :::
 ::::
