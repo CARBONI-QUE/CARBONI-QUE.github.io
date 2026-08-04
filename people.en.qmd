@@ -196,23 +196,42 @@ Dr. Evelyne Thiffault is an Associate Professor in forest ecology and management
 
 ## Technical and managerial team
 
+<!-- :::: {layout-nrow=1} -->
+<!-- :::{.column width="50%"} -->
+
+<!-- ![](images/team/umair_muhammad.jpg) -->
+<!-- ::: -->
+<!-- ::: {.column width="50%"} -->
+
+<!--  | -->
+<!-- -----|:----- -->
+<!-- Name| Muhammad Umair -->
+<!-- Email| muhammad.umair.1\@umontreal.ca -->
+<!-- <!--Office| MCML 137-->
+
+<!-- :::  -->
+<!-- :::: -->
+
+<!-- Muhammad Umair is a data scientist for the CARBONIQUE project. Before starting this position, he was a postdoctoral fellow at Université de Montreal (UdeM, <a href="https://atmosbios.com/" target="_blank">Atmosbios Lab</a>), where his work involved implementing the “stomatal optimization based on xylem hydraulics” parameterization in CLASSIC (Canadian Land Surface Scheme including Biogeochemical Cycles) and to evaluate its impact on carbon and water fluxes for historical and future projections. During his postdoctoral fellowship, he worked closely with Oliver Sonnentag (research supervisor) and two other collaborators: Joe R. Melton from Environment and Climate Change Canada (ECCC) and Alexander Roy from UQTR on a project funded by the Canadian Space Agency (CSA). He has over five years of experience in climate modeling, remote sensing, and flux tower observations, and he also acquired teaching experience by working as an assistant professor in Pakistan before starting a postdoctoral fellowship in Canada. In addition, he has experience in using AI-ML tools in climate modeling. During his MS-Ph.D. in South Korea, he worked on the Community Land Model (CLM, Version 4.0 and 5.0) under the Community Earth System Modeling (CESM) framework and various remote sensing datasets (MODIS, SMAP). -->
+
+
 :::: {layout-nrow=1}
 :::{.column width="50%"}
 
-![](images/team/umair_muhammad.jpg)
+  
 :::
 ::: {.column width="50%"}
 
  |
 -----|:-----
-Name| Muhammad Umair
-Email| muhammad.umair.1\@umontreal.ca
+Name| Rosemary Howard
+Email| rosemary.howard\@mcgill.ca
 <!--Office| MCML 137-->
 
-::: 
+:::
 ::::
 
-Muhammad Umair is a data scientist for the CARBONIQUE project. Before starting this position, he was a postdoctoral fellow at Université de Montreal (UdeM, <a href="https://atmosbios.com/" target="_blank">Atmosbios Lab</a>), where his work involved implementing the “stomatal optimization based on xylem hydraulics” parameterization in CLASSIC (Canadian Land Surface Scheme including Biogeochemical Cycles) and to evaluate its impact on carbon and water fluxes for historical and future projections. During his postdoctoral fellowship, he worked closely with Oliver Sonnentag (research supervisor) and two other collaborators: Joe R. Melton from Environment and Climate Change Canada (ECCC) and Alexander Roy from UQTR on a project funded by the Canadian Space Agency (CSA). He has over five years of experience in climate modeling, remote sensing, and flux tower observations, and he also acquired teaching experience by working as an assistant professor in Pakistan before starting a postdoctoral fellowship in Canada. In addition, he has experience in using AI-ML tools in climate modeling. During his MS-Ph.D. in South Korea, he worked on the Community Land Model (CLM, Version 4.0 and 5.0) under the Community Earth System Modeling (CESM) framework and various remote sensing datasets (MODIS, SMAP).
+Dr. Rosie Howard is a data scientist for the CARBONIQUE project. She has worked as a Research Associate and leader in research and development strategies for over a decade, on a variety of research topics spanning numerical weather prediction and meteorology across multiple scales. Her focus shifted to climate science when she joined the EcoFlux Lab at McGill University in March 2024. Currently, she is working on standardizing eddy-covariance data from flux towers in Canadian wetlands, including CARBONIQUE sites, with the larger goal of evaluating the role of wetlands as a natural climate solution.
 
 ---
 
@@ -350,8 +369,8 @@ Michaela de Melo is a biologist and research assistant at the Carbon Biogeochemi
 
  |
 -----|:-----
-Nom| Zoran Nesic
-Courriel|  zoran.nesic\@ubc.ca
+Name| Zoran Nesic
+Email|  zoran.nesic\@ubc.ca
 <!--Office| MCML 137-->
 
 ::: 
@@ -371,8 +390,8 @@ Zoran Nesic is a senior research engineer at the University of British Columbia 
 
  |
 -----|:-----
-Nom| Olaf Kolle
-Courriel|  oeekolle\@outlook.de
+Name| Olaf Kolle
+Email|  oeekolle\@outlook.de
 <!--Office| MCML 137-->
 
 ::: 
@@ -382,7 +401,7 @@ Olaf Kolle contributes intermittently as invited senior scientist at UQAM to the
 
 ---
 
-## Students
+## Students and postdoctoral fellows
 
 :::: {layout-nrow=1}
 ::: {.column width="50%}
@@ -419,5 +438,54 @@ Olaf Kolle contributes intermittently as invited senior scientist at UQAM to the
 
 ![](images/team/chalifoux_albert.jpg)
 
+:::
+::::
+
+:::: {layout-nrow=1}
+::: {.column width="50%"}
+**Jacob Isabelle (UQTR)**
+: *(M.Sc. Student)*
+
+![](images/team/isabelle_jacob.jpeg)
+
+:::
+::: {.column width="50%"}
+
+**Dylan Gwilliam (McGill)**
+: *(M.Sc. Student)*
+
+![](images/team/gwilliam_dylan.jpg)
+
+:::
+::::
+
+:::: {layout-nrow=1}
+::: {.column width="50%"}
+**Sidonie Phouttama (ULaval)**
+: *(M.Sc. Student)*
+
+![](images/team/phouttama_sidonie.jpg)
+
+:::
+::: {.column width="50%"}
+
+ 
+
+:::
+::::
+
+## Alumni
+
+:::: {layout-nrow=1}
+::: {.column width="50%}
+
+**Muhammad Umair (UdeM)**
+: *(Data Scientist)*
+
+![](images/team/umair_muhammad.jpg)
+
+:::
+::: {.column width="50%"}
+ 
 :::
 ::::
