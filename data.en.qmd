@@ -6,7 +6,7 @@ title: "Field Sites & Data"
 ## Field Sites
 This web-app shows the sites where we operate Eddy Covariance towers and Flux Chamber sites in wetlands across southern Quebec.
 
-Click the points to sites to see more information.
+Click the elements in the map for more information.
 
 <div style="overflow: hidden;
   padding-top: 75%;
@@ -24,7 +24,7 @@ Click the points to sites to see more information.
 
  <a href="https://www.carbonique.ca/FieldSiteMaps/" target="_blank">View map in separate window</a> 
 
-### Lac Saint-Pierre disturbed marsh (UQAM1)
+### Lac Saint-Pierre transformed marsh (UQAM_1)
 :::: {layout-nrow=1}
 
 :::{.column width="65%"}
@@ -43,12 +43,13 @@ Click the points to sites to see more information.
 
 ::::
 
-### Lac Saint-Pierre restored marsh (MCGILL1)
+### Lac Saint-Pierre restored marsh (MCGILL_1)
 :::: {layout-nrow=1}
 
 :::{.column width="65%"}
 
 * A flux tower was installed in spring 2025 and became operational in early summer 2025
+* Get an impression of the site conditions in near real-time on the <a href="https://phenocam.nau.edu/webcam/sites/lsprestoredmarsh/">Phenocam Network website</a>
 * Data download for this flux tower will be available in the future through Ameriflux
 
 ::: 
@@ -61,7 +62,7 @@ Click the points to sites to see more information.
 
 ::::
 
-### Lac-à-la-Tortue natural open bog (UQAM2)
+### Lac-à-la-Tortue natural open bog (UQAM_2)
 :::: {layout-nrow=1}
 
 :::{.column width="65%"}
@@ -71,7 +72,7 @@ Click the points to sites to see more information.
   - flux instruments were re-installed in July 2025 and the tower became fully operational again
   - biomet sensors were working throughout
 * Get an impression of the site conditions in near real-time on the <a href="https://phenocam.nau.edu/webcam/sites/latnaturalopenbog/">Phenocam Network website</a>
-* Data download for this flux tower will be available in the future through Ameriflux
+* Data download for <a href="https://ameriflux.lbl.gov/sites/siteinfo/CA-CQ2">CA-CQ2</a> will be available in the future through Ameriflux
 
 ::: 
 
@@ -84,20 +85,39 @@ Click the points to sites to see more information.
 ::::
 
 
-### Lac-à-la-Tortue natural treed bog (UQAM3)
+### Lac-à-la-Tortue natural forested bog (UQAM_3)
 :::: {layout-nrow=1}
 
 :::{.column width="65%"}
 
 * A flux tower was installed in spring 2025
 * Get an impression of the site conditions in near real-time on the <a href="https://phenocam.nau.edu/webcam/sites/latnaturalforestedbog/">Phenocam Network website</a>
-* Data download for this flux tower will be available in the future through Ameriflux
+* Data download for <a href="https://ameriflux.lbl.gov/sites/siteinfo/CA-CQ3">CA-CQ3</a> will be available in the future through Ameriflux
 
 ::: 
 
 ::: {.column width="35%"}
 
 ![](./images/site-images/uqam3-tower.jpg){fig-align="right" width=35%}
+
+:::
+
+::::
+
+### Saint-Rémi transformed forested peatland (UQAM_4)
+:::: {layout-nrow=1}
+
+:::{.column width="65%"}
+
+* A flux tower was installed in January 2026
+* Get an impression of the site conditions in near real-time on the <a href="https://phenocam.nau.edu/webcam/sites/strdisturbedforestedpeatland/">Phenocam Network website</a>
+* Data download for this flux tower will be available in the future through Ameriflux
+
+::: 
+
+::: {.column width="35%"}
+
+![](./images/site-images/uqam4-tower.jpg){fig-align="right" width=35%}
 
 :::
 
