@@ -383,7 +383,7 @@ Olaf Kolle contribue de façon intermittente au projet CARBONIQUE en tant que sc
 
 ---
 
-## Étudiants
+## Étudiants et stagiaires postdoctoraux
 
 :::: {layout-nrow=1}
 ::: {.column width="50%}
