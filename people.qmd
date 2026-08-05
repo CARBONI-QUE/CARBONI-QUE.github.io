@@ -344,6 +344,27 @@ Michaela de Melo est biologiste et agente de recherche au laboratoire de biogéo
 :::: {layout-nrow=1}
 :::{.column width="50%"}
 
+![](images/team/ahongshangbam_joyson.jpg)
+
+:::
+::: {.column width="50%"}
+
+ |
+-----|:-----
+Nom| Joyson Ahongshangbam
+Courriel| joyson.ahongshangbam\@mcgill.ca
+<!--Office| MCML 137-->
+
+:::
+::::
+
+Joyson Ahongshangbam est chercheur associé au Département de géographie de l'Université McGill. Ses recherches portent sur les flux de gaz à effet de serre (CO₂ et CH₄) et d'eau dans divers écosystèmes — notamment les forêts, la végétation urbaine et les milieux humides — en s'appuyant sur la méthode de corrélation des turbulences (eddy covariance), la mesure du flux de sève, la télédétection et la modélisation des écosystèmes. Dans le cadre du projet CARBONIQUE, il vise à comparer les bilans nets de carbone (C) et de gaz à effet de serre (GES) atmosphériques entre différents types de milieux humides, ainsi qu'à évaluer les facteurs environnementaux et biophysiques régissant les flux verticaux de carbone et de gaz à effet de serre.
+
+---
+
+:::: {layout-nrow=1}
+:::{.column width="50%"}
+
 <!-- ![](images/team/nesic_zoran_temp.png) -->
 
 :::
@@ -452,7 +473,10 @@ Olaf Kolle contribue de façon intermittente au projet CARBONIQUE en tant que sc
 :::
 ::: {.column width="50%"}
 
- 
+**Jeri Rabearison (UQTR)**
+: *(Stagiaire postdoctoral)*
+
+![](images/team/rabearison_jeri.jpeg)
 
 :::
 ::::
