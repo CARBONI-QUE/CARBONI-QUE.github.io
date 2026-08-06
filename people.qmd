@@ -344,6 +344,27 @@ Michaela de Melo est biologiste et agente de recherche au laboratoire de biogéo
 :::: {layout-nrow=1}
 :::{.column width="50%"}
 
+![](images/team/he_hongxing.jpg)
+
+:::
+::: {.column width="50%"}
+
+ |
+-----|:-----
+Nom| Hongxing He
+Courriel| hongxing.he\@mcgill.ca
+<!--Office| MCML 137-->
+
+:::
+::::
+
+Hongxing He est chercheur associé au Département de géographie de l'Université McGill. Ses travaux de recherche portent sur le développement et l'application de modèles écosystémiques fondés sur les processus pour simuler les échanges de gaz à effet de serre (CO₂, CH₄ et N₂O) et la dynamique du carbone organique dissous (COD), ainsi que les facteurs environnementaux régissant ces processus dans les écosystèmes de milieux humides. Ses activités de modélisation visent à approfondir la compréhension des processus liés au cycle du carbone dans les milieux humides et à évaluer l'incidence des changements climatiques et des pratiques de gestion sur les composantes clés du bilan carbone, dans le cadre du projet CARBONIQUE.
+
+---
+
+:::: {layout-nrow=1}
+:::{.column width="50%"}
+
 ![](images/team/ahongshangbam_joyson.jpg)
 
 :::
