@@ -373,7 +373,7 @@ Email| hongxing.he\@mcgill.ca
 
 :::
 ::::
-
+ 
 Dr. Hongxing He is a Research Associate in the Department of Geography at McGill University. His research focuses on developing and applying process-based ecosystem models to simulate greenhouse gas (CO₂, CH₄, and N₂O) exchanges and dissolved organic carbon (DOC) dynamics, along with the environmental factors that regulate these processes across wetland ecosystems. His modelling aims to improve process-level understanding of wetland carbon cycling and to evaluate how changes in climate and management influence key components of the carbon budget within the CARBONIQUE project.
 
 ---
