@@ -517,6 +517,21 @@ Olaf Kolle contributes intermittently as invited senior scientist at UQAM to the
 :::
 ::::
 
+:::: {layout-nrow=1}
+::: {.column width="50%"}
+**Erika Racine (ULaval)**
+: *(M.Sc. Student)*
+
+![](images/team/racine_erika.jpg)
+
+:::
+::: {.column width="50%"}
+
+ 
+
+:::
+::::
+
 ## Alumni
 
 :::: {layout-nrow=1}
