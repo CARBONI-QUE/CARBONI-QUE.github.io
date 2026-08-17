@@ -112,12 +112,32 @@ Click the elements in the map for more information.
 * A flux tower was installed in January 2026
 * Get an impression of the site conditions in near real-time on the <a href="https://phenocam.nau.edu/webcam/sites/strdisturbedforestedpeatland/">Phenocam Network website</a>
 * Data download for this flux tower will be available in the future through Ameriflux
+* Collaboration with the <a href="https://www.ulaval.ca/la-recherche/unites-de-recherche/chaires-de-recherche-en-partenariat/chaire-de-recherche-en-partenariat-en-conservation-et-restauration-des-sols-organiques-cultives">Partnership Research Chair in the Conservation and Restoration of Cultivated Organic Soils</a>
 
 ::: 
 
 ::: {.column width="35%"}
 
 ![](./images/site-images/uqam4-tower.jpg){fig-align="right" width=35%}
+
+:::
+
+::::
+
+### Baie Saint François natural marsh (UQAM_5)
+:::: {layout-nrow=1}
+
+:::{.column width="65%"}
+
+* The platform infrastructure was installed in November 2025 and the site was instrumented in the summer of 2026
+* Get an impression of the site conditions in near real-time on the <a href="https://phenocam.nau.edu/webcam/sites/lspnaturalmarsh/">Phenocam Network website</a>
+* Data download for this flux tower will be available in the future through Ameriflux
+
+::: 
+
+::: {.column width="35%"}
+
+![](./images/site-images/uqam5-tower.jpg){fig-align="right" width=35%}
 
 :::
 
