@@ -504,7 +504,7 @@ Olaf Kolle contribue de façon intermittente au projet CARBONIQUE en tant que sc
 
 :::: {layout-nrow=1}
 ::: {.column width="50%"}
-**Erika Racine (ULaval)**
+**Jeanne Renauld (ULaval)**
 : *(Maitrise en sciences géographiques)*
 
 ![](images/team/racine_erika.jpg)
@@ -512,7 +512,10 @@ Olaf Kolle contribue de façon intermittente au projet CARBONIQUE en tant que sc
 :::
 ::: {.column width="50%"}
 
- 
+**Erika Racine (ULaval)**
+: *(Maitrise en sciences géographiques)*
+
+![](images/team/renauld_jeanne.jpg)
 
 :::
 ::::
