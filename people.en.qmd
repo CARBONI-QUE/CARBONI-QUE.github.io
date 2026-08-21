@@ -535,6 +535,21 @@ Olaf Kolle contributes intermittently as invited senior scientist at UQAM to the
 :::
 ::::
 
+:::: {layout-nrow=1}
+::: {.column width="50%"}
+**Maya Couillard (UQAM)**
+: *(M.Sc. Student)*
+
+![](images/team/couillard_maya.jpg)
+
+:::
+::: {.column width="50%"}
+
+ 
+
+:::
+::::
+
 ## Alumni
 
 :::: {layout-nrow=1}
