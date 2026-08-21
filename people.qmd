@@ -520,6 +520,21 @@ Olaf Kolle contribue de façon intermittente au projet CARBONIQUE en tant que sc
 :::
 ::::
 
+:::: {layout-nrow=1}
+::: {.column width="50%"}
+**Maya Couillard (UQAM)**
+: *(Maitrise en sciences biologiques)*
+
+![](images/team/couillard_maya.jpg)
+
+:::
+::: {.column width="50%"}
+
+ 
+
+:::
+::::
+
 ## Alumni
 
 :::: {layout-nrow=1}
