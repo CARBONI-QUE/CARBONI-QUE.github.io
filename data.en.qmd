@@ -4,7 +4,7 @@ title: "Field Sites & Data"
 <img src="./images/banner_lsp_dm.jpg" style="display: block; margin-left: auto; margin-right: auto; max-width: 100%; height: auto; object-fit: fill" width="750"/>
 
 ## Field Sites
-This web-app shows the sites where we operate Eddy Covariance towers and Flux Chamber sites in wetlands across southern Quebec.
+This web-app shows the sites where we operate eddy covariance flux towers and flux chamber sites in wetlands across southern Quebec.
 
 Click the elements in the map for more information.
 
