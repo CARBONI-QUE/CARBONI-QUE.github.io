@@ -530,7 +530,10 @@ Olaf Kolle contribue de façon intermittente au projet CARBONIQUE en tant que sc
 :::
 ::: {.column width="50%"}
 
- 
+**Miranda Hunter (UQAM)**
+: *(Stagiaire postdoctoral)*
+
+![](images/team/hunter_miranda.jpg)
 
 :::
 ::::
