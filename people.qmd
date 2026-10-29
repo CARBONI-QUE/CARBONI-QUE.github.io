@@ -430,7 +430,7 @@ Olaf Kolle contribue de façon intermittente au projet CARBONIQUE en tant que sc
 :::: {layout-nrow=1}
 ::: {.column width="50%}
 
-**Joannie Beaulne (ULaval**
+**Joannie Beaulne (ULaval)**
 : *(Doctorat en sciences forestières)*
 
 ![](images/team/beaulne_joannie.jpg)
@@ -531,9 +531,27 @@ Olaf Kolle contribue de façon intermittente au projet CARBONIQUE en tant que sc
 ::: {.column width="50%"}
 
 **Miranda Hunter (UQAM)**
-: *(Stagiaire postdoctoral)*
+: *(Stagiaire postdoctorale)*
 
 ![](images/team/hunter_miranda.jpg)
+
+:::
+::::
+
+:::: {layout-nrow=1}
+::: {.column width="50%"}
+**Mohammed Abdaki (U de M/McGill)**
+: *(Stagiaire postdoctoral)*
+
+![](images/team/abdaki_mohammed.jpg)
+
+:::
+::: {.column width="50%"}
+
+
+: 
+
+
 
 :::
 ::::

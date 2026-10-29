@@ -553,6 +553,24 @@ Olaf Kolle contributes intermittently as invited senior scientist at UQAM to the
 :::
 ::::
 
+:::: {layout-nrow=1}
+::: {.column width="50%"}
+**Mohammed Abdaki (U de M/McGill)**
+: *(Postdoctoral fellow)*
+
+![](images/team/abdaki_mohammed.jpg)
+
+:::
+::: {.column width="50%"}
+
+
+: 
+
+
+
+:::
+::::
+
 ## Alumni
 
 :::: {layout-nrow=1}

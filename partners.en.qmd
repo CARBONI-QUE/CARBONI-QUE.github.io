@@ -54,7 +54,7 @@ sidebar: home
 
 ## Funding
 
-:::: {layout-nrow=2}
+:::: {layout-nrow=2 layout-valign="center"}
 
 
 :::{.column width="33%"}
@@ -73,14 +73,13 @@ sidebar: home
 :::
 
 
-:::{.column width="33%"}
+:::{.column width="30%"}
 
 <a href="https://www.ducks.ca/" target="_blank">![](./images/logos/DUC.png)</a>
 :::
 
-:::{.column width="33%"}
-:::
-:::{.column width="33%"}
+:::{.column width="70%"}
+<a href="https://www.canada.ca/en/environment-climate-change.html" target="_blank">![](./images/logos/ECCC.png)</a>
 :::
 
 ::::
